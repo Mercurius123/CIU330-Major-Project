@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+DeathStrikes/Content/ParagonCountess/
+
+DeathStrikes/Content/ParagonGreystone/
