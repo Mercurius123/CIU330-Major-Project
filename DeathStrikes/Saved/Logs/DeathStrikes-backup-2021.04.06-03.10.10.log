@@ -1,0 +1,1790 @@
+﻿Log file open, 04/06/21 10:54:40
+LogInit: Display: Running engine for game: DeathStrikes
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.188474
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.06-00.54.41:850][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.06-00.54.41:850][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.06-00.54.41:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.06-00.54.41:851][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.06-00.54.41:851][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.06-00.54.41:859][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.06-00.54.41:859][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:859][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.06-00.54.41:860][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.06-00.54.41:861][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.06-00.54.41:861][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.06-00.54.41:862][  0]LogHAL: Display: Platform has ~ 8 GB [8464355328 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.06-00.54.41:862][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.06-00.54.41:863][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.06-00.54.41:863][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.06-00.54.41:864][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.06-00.54.41:865][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.06-00.54.41:865][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.06-00.54.41:865][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.06-00.54.41:865][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.06-00.54.41:865][  0]LogInit: Computer: LAPTOP-P1R6HT0B
+[2021.04.06-00.54.41:865][  0]LogInit: User: arjun
+[2021.04.06-00.54.41:865][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.06-00.54.41:865][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.06-00.54.41:865][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.04.06-00.54.41:865][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.06-00.54.41:865][  0]LogMemory: Process Physical Memory: 119.89 MB used, 119.89 MB peak
+[2021.04.06-00.54.41:865][  0]LogMemory: Process Virtual Memory: 98.17 MB used, 98.17 MB peak
+[2021.04.06-00.54.41:865][  0]LogMemory: Physical Memory: 6091.43 MB used,  1980.81 MB free, 8072.24 MB total
+[2021.04.06-00.54.41:865][  0]LogMemory: Virtual Memory: 5147.55 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2021.04.06-00.54.41:871][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.06-00.54.42:267][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.06-00.54.42:275][  0]LogInit: Using OS detected language (en-US).
+[2021.04.06-00.54.42:275][  0]LogInit: Using OS detected locale (en-AU).
+[2021.04.06-00.54.42:303][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.06-00.54.42:653][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.06-00.54.42:778][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.06-00.54.42:778][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.06-00.54.45:634][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.06-00.54.45:634][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.06-00.54.45:634][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.06-00.54.45:634][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.06-00.54.45:761][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2021.04.06-00.54.45:761][  0]LogD3D11RHI:       3962/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.06-00.54.45:819][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.04.06-00.54.45:819][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.04.06-00.54.45:828][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.06-00.54.45:828][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.06-00.54.45:828][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.06-00.54.45:869][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.06-00.54.45:870][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.06-00.54.45:870][  0]LogWindows: EnumDisplayDevices:
+[2021.04.06-00.54.45:870][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.04.06-00.54.45:870][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.06-00.54.45:870][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.06-00.54.45:871][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2021.04.06-00.54.45:871][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2021.04.06-00.54.45:871][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2021.04.06-00.54.45:871][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2021.04.06-00.54.45:871][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.04.06-00.54.45:871][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2021.04.06-00.54.45:871][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2021.04.06-00.54.45:871][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2021.04.06-00.54.45:871][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.04.06-00.54.45:937][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.06-00.54.45:938][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.06-00.54.45:938][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.06-00.54.45:973][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.06-00.54.46:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.06-00.54.46:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.06-00.54.46:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.06-00.54.46:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.06-00.54.46:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.06-00.54.46:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.06-00.54.46:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.06-00.54.46:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.06-00.54.46:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.06-00.54.46:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.06-00.54.46:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.06-00.54.46:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.06-00.54.46:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.06-00.54.46:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.06-00.54.46:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.06-00.54.46:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.06-00.54.46:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.06-00.54.46:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.06-00.54.46:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.06-00.54.46:616][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.06-00.54.46:671][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.06-00.54.46:882][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Intermediate/Shaders/WorkingDirectory/10708/).
+[2021.04.06-00.54.46:883][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/arjun/AppData/Local/Temp/UnrealShaderWorkingDir/14725278489CC97806FE2089AEC3EBAB/'.
+[2021.04.06-00.54.46:887][  0]LogXGEController: Cleaning working directory: C:/Users/arjun/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.06-00.54.46:888][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.06-00.54.46:888][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.06-00.54.46:888][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.06-00.54.50:015][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.06-00.54.50:134][  0]LogDerivedDataCache: Loaded boot cache 0.12s 77MB C:/Users/arjun/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.06-00.54.50:134][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/arjun/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.06-00.54.50:134][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.06-00.54.50:134][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.06-00.54.50:134][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.06-00.54.50:134][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.06-00.54.50:154][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.06-00.54.50:154][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.06-00.54.50:154][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.06-00.54.50:156][  0]LogDerivedDataCache: Using Local data cache path C:/Users/arjun/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.06-00.54.50:156][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.06-00.54.50:156][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.06-00.54.50:214][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.06-00.54.50:235][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.06-00.54.50:295][  0]LogAssetRegistry: FAssetRegistry took 0.0070 seconds to start up
+[2021.04.06-00.54.50:843][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.06-00.54.51:109][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.06-00.54.51:109][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.06-00.54.51:109][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.06-00.54.51:109][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.06-00.54.51:110][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.06-00.54.51:279][  0]LogNetVersion: DeathStrikes 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3077566668)
+[2021.04.06-00.54.52:897][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001DA4E44D800), frame # 0
+[2021.04.06-00.54.52:897][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA4E3E4900), frame # 0
+[2021.04.06-00.54.52:912][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA4E411E00), frame # 0
+[2021.04.06-00.54.53:052][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.078331 seconds
+[2021.04.06-00.54.53:057][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.04.06-00.54.53:057][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.04.06-00.54.53:057][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.06-00.54.54:244][  0]LogFMOD: FFMODStudioModule startup
+[2021.04.06-00.54.54:244][  0]LogFMOD:  Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2021.04.06-00.54.54:244][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2021.04.06-00.54.54:427][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2021.04.06-00.54.54:621][  0]LogFMOD: Default sample rate = 48000
+[2021.04.06-00.54.54:621][  0]LogFMOD: System sample rate = 48000
+[2021.04.06-00.54.54:621][  0]LogFMOD: Matching system sample rate 48000
+[2021.04.06-00.54.54:661][  0]LogFMOD: Default sample rate = 48000
+[2021.04.06-00.54.54:661][  0]LogFMOD: System sample rate = 48000
+[2021.04.06-00.54.54:661][  0]LogFMOD: Matching system sample rate 48000
+[2021.04.06-00.54.55:576][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.06-00.54.55:604][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.06-00.54.55:940][  0]SourceControl: Source control is disabled
+[2021.04.06-00.54.55:943][  0]SourceControl: Source control is disabled
+[2021.04.06-00.54.55:965][  0]SourceControl: Source control is disabled
+[2021.04.06-00.54.55:974][  0]SourceControl: Source control is disabled
+[2021.04.06-00.54.55:989][  0]SourceControl: Source control is disabled
+[2021.04.06-00.54.56:447][  0]LogFMOD: FFMODStudioEditorModule startup
+[2021.04.06-00.54.56:675][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.06-00.54.56:716][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.06-00.54.56:716][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.06-00.54.56:879][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2021.04.06-00.54.56:898][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 18.5.408/bin
+[2021.04.06-00.54.56:917][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.04.06-00.54.57:050][  0]LogOcInput: OculusInput pre-init called
+[2021.04.06-00.54.57:076][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.06-00.54.57:076][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.06-00.54.57:355][  0]LogEngine: Initializing Engine...
+[2021.04.06-00.54.57:362][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.06-00.54.57:362][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.06-00.54.57:368][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.04.06-00.54.57:751][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.06-00.54.57:839][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.06-00.54.57:839][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA55529C00), frame # 0
+[2021.04.06-00.54.57:839][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA55569580), frame # 0
+[2021.04.06-00.54.57:866][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-00.54.57:866][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-00.54.57:866][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-00.54.57:866][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-00.54.57:866][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-00.54.57:866][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-00.54.57:866][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-00.54.57:866][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-00.54.57:869][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-00.54.57:869][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-00.54.57:898][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-00.54.57:898][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-00.54.57:918][  0]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-00.54.57:921][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-00.54.57:948][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-00.54.57:949][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-00.54.57:951][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-00.54.57:954][  0]LogInit: FAudioDevice initialized.
+[2021.04.06-00.54.57:955][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.06-00.54.58:005][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/arjun/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.06-00.54.58:009][  0]LogInit: Texture streaming: Enabled
+[2021.04.06-00.54.58:046][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.06-00.54.58:046][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.06-00.54.58:055][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.06-00.54.58:391][  0]LogInit: Transaction tracking system initialized
+[2021.04.06-00.54.58:448][  0]BlueprintLog: New page: Editor Load
+[2021.04.06-00.54.58:687][  0]LocalizationService: Localization service is disabled
+[2021.04.06-00.54.59:283][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.06-00.54.59:283][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.06-00.54.59:448][  0]LogFileCache: Scanning file cache for directory 'C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/' took 0.07s
+[2021.04.06-00.54.59:650][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2021.04.06-00.54.59:663][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2021.04.06-00.54.59:665][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2021.04.06-00.54.59:998][  0]SourceControl: Source control is disabled
+[2021.04.06-00.54.59:999][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.844
+[2021.04.06-00.55.00:003][  0]Cmd: MAP LOAD FILE="../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.06-00.55.00:006][  0]LightingResults: New page: Lighting Build
+[2021.04.06-00.55.00:022][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-00.55.00:025][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-00.55.00:028][  0]MapCheck: New page: Map Check
+[2021.04.06-00.55.00:028][  0]LightingResults: New page: Lighting Build
+[2021.04.06-00.55.00:078][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA55529C00), frame # 0
+[2021.04.06-00.55.00:078][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA55569580), frame # 0
+[2021.04.06-00.55.00:080][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.06-00.55.04:415][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.06-00.55.04:416][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.06-00.55.04:416][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.06-00.55.04:416][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.06-00.55.04:416][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.06-00.55.04:416][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.06-00.55.04:417][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.06-00.55.04:417][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.06-00.55.04:417][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.06-00.55.04:417][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.06-00.55.04:417][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.06-00.55.04:417][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.06-00.55.04:430][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.06-00.55.04:430][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.06-00.55.04:430][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.06-00.55.04:431][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.06-00.55.04:431][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.06-00.55.04:431][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.06-00.55.04:431][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.06-00.55.04:431][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.06-00.55.04:431][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.06-00.55.04:432][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.06-00.55.04:432][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.06-00.55.04:432][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.06-00.55.04:909][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2021.04.06-00.55.05:202][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.06-00.55.05:202][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_A.T_CandleStick_Iron_A Referenced by M_CandleStick_Iron_Inst
+[2021.04.06-00.55.05:203][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.06-00.55.05:203][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_A.T_CandleStick_Iron_A Referenced by M_CandleStick_Iron_Inst
+[2021.04.06-00.55.05:203][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.06-00.55.05:203][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_C.T_CandleStick_Iron_C Referenced by M_CandleStick_Iron_Inst
+[2021.04.06-00.55.05:203][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.06-00.55.05:203][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_C.T_CandleStick_Iron_C Referenced by M_CandleStick_Iron_Inst
+[2021.04.06-00.55.05:203][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.06-00.55.05:203][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_N.T_CandleStick_Iron_N Referenced by M_CandleStick_Iron_Inst
+[2021.04.06-00.55.05:204][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.06-00.55.05:204][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_N.T_CandleStick_Iron_N Referenced by M_CandleStick_Iron_Inst
+[2021.04.06-00.55.05:205][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.06-00.55.05:205][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_A.T_Candle_Holder_A Referenced by M_Candle_Holder_Inst
+[2021.04.06-00.55.05:205][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.06-00.55.05:205][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_A.T_Candle_Holder_A Referenced by M_Candle_Holder_Inst
+[2021.04.06-00.55.05:205][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.06-00.55.05:205][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_C.T_Candle_Holder_C Referenced by M_Candle_Holder_Inst
+[2021.04.06-00.55.05:205][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.06-00.55.05:205][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_C.T_Candle_Holder_C Referenced by M_Candle_Holder_Inst
+[2021.04.06-00.55.05:206][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.06-00.55.05:206][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_N.T_Candle_Holder_N Referenced by M_Candle_Holder_Inst
+[2021.04.06-00.55.05:206][  0]LogLinker: Warning: While loading '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.06-00.55.05:206][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_N.T_Candle_Holder_N Referenced by M_Candle_Holder_Inst
+[2021.04.06-00.55.08:203][  0]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-00.55.08:204][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA64649400), frame # 0
+[2021.04.06-00.55.08:204][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA45C0C180), frame # 0
+[2021.04.06-00.55.08:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.06-00.55.08:502][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.06-00.55.08:504][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.06-00.55.08:504][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.566ms to complete.
+[2021.04.06-00.55.08:504][  0]LogFileHelpers: Loading map 'DreadlordArea' took 8.504
+[2021.04.06-00.55.08:591][  0]LogUnrealEdMisc: Total Editor Startup Time, took 34.435
+[2021.04.06-00.55.08:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-00.55.08:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-00.55.08:839][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-00.55.08:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-00.55.08:876][  0]LogCollectionManager: Loaded 0 collections in 0.002130 seconds
+[2021.04.06-00.55.08:924][  0]LogFileCache: Scanning file cache for directory 'C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Collections/' took 0.00s
+[2021.04.06-00.55.08:924][  0]LogFileCache: Scanning file cache for directory 'C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Developers/arjun/Collections/' took 0.00s
+[2021.04.06-00.55.08:924][  0]LogFileCache: Scanning file cache for directory 'C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Collections/' took 0.00s
+[2021.04.06-00.55.08:924][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3530 classes and 835 folders.
+[2021.04.06-00.55.08:949][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.06-00.55.09:416][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.06-00.55.09:431][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.04.06-00.55.09:817][  0]LogSlate: Took 0.008941 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.06-00.55.09:829][  0]LogSlate: Took 0.008460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.06-00.55.09:846][  0]LogSlate: Took 0.008861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.06-00.55.09:996][  0]LogRenderer: Reallocating scene render targets to support 964x476 Format 10 NumSamples 1 (Frame:1).
+[2021.04.06-00.55.10:603][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.06-00.55.10:603][  0]LogLoad: (Engine Initialization) Total time: 36.45 seconds
+[2021.04.06-00.55.10:603][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.06-00.55.10:694][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.06-00.55.10:728][  0]LogSlate: Took 0.006427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.06-00.55.10:769][  0]LogSlate: Took 0.009436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.06-00.55.10:817][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/' took 0.17s
+[2021.04.06-00.55.10:859][  1]LogAssetRegistry: Asset discovery search completed in 20.5674 seconds
+[2021.04.06-00.55.10:863][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.04.06-00.55.40:036][808]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.06-00.55.42:718][940]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.06-00.55.42:778][940]LogFMOD: Creating runtime Studio System
+[2021.04.06-00.55.42:781][940]LogFMOD: Default sample rate = 48000
+[2021.04.06-00.55.42:781][940]LogFMOD: System sample rate = 48000
+[2021.04.06-00.55.42:781][940]LogFMOD: Matching system sample rate 48000
+[2021.04.06-00.55.42:798][940]LogFMOD: Loading Banks
+[2021.04.06-00.55.42:798][940]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.04.06-00.55.42:838][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-00.55.42:844][940]PIE: New page: PIE session: DreadlordArea (6 Apr 2021, 8:55:42 pm)
+[2021.04.06-00.55.42:852][940]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.06-00.55.42:854][940]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.06-00.55.42:856][940]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-00.55.43:051][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.194939s)
+[2021.04.06-00.55.43:053][940]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-00.55.43:053][940]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA60862600), frame # 940
+[2021.04.06-00.55.43:053][940]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DA641CD6C0), frame # 940
+[2021.04.06-00.55.43:053][940]LogPlayLevel: PIE: World Init took: (0.002016s)
+[2021.04.06-00.55.43:053][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea to /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea (0.197130s)
+[2021.04.06-00.55.43:063][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.06-00.55.43:076][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-00.55.43:076][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-00.55.43:076][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-00.55.43:076][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-00.55.43:076][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-00.55.43:076][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-00.55.43:076][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-00.55.43:076][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-00.55.43:077][940]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-00.55.43:077][940]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-00.55.43:081][940]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-00.55.43:081][940]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-00.55.43:098][940]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-00.55.43:098][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-00.55.43:098][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-00.55.43:098][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-00.55.43:098][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-00.55.43:111][940]LogInit: FAudioDevice initialized.
+[2021.04.06-00.55.43:147][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-00.55.43:147][940]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.06-00.55.43:175][940]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea up for play (max tick rate 60) at 2021.04.06-10.55.43
+[2021.04.06-00.55.43:200][940]LogWorld: Bringing up level for play took: 0.048394
+[2021.04.06-00.55.43:200][940]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.04.06-00.55.43:220][940]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.06-00.55.43:221][940]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder) has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.06-00.55.43:221][940]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder)' 
+[2021.04.06-00.55.43:261][940]PIE: Server logged in
+[2021.04.06-00.55.43:262][940]PIE: Play in editor total start time 0.521 seconds.
+[2021.04.06-00.55.43:337][941]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.04.06-00.55.52:312][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-00.55.52:312][414]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-00.55.52:312][414]LogSlate: Window 'DeathStrikes Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.06-00.55.52:319][414]LogWorld: UWorld::CleanupWorld for DreadlordArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-00.55.52:324][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-00.55.52:333][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-00.55.52:335][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-00.55.52:397][414]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA641CD6C0), frame # 1414
+[2021.04.06-00.55.52:397][414]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA60862600), frame # 1414
+[2021.04.06-00.55.52:401][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.04.06-00.55.52:445][415]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.04.06-00.56.38:702][ 55]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Magical_Portal...
+[2021.04.06-00.56.38:704][ 55]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Environmental_Sounds/Magical_Portal.Magical_Portal will be modified from 40 to 40.
+[2021.04.06-00.56.38:827][ 55]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1139872 while cooking SoundWave /Game/Audio/Environmental_Sounds/Magical_Portal.Magical_Portal.
+[2021.04.06-00.56.58:150][155]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea:PersistentLevel.DreadlordArea
+[2021.04.06-00.56.58:667][155]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2021.04.06-00.56.59:530][155]LogSlate: Took 0.005742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.06-00.56.59:629][156]LogSlate: Took 0.007693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.06-01.01.25:963][ 86]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.01.26:046][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.04.06-01.01.26:793][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.06-01.01.27:482][125]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaD4F8377640ECD6106403F39F6E1BB208.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.01.27:536][125]LogFileHelpers: No new changes to save!
+[2021.04.06-01.01.27:537][125]LogFileHelpers: Saving map 'DreadlordArea' took 0.770
+[2021.04.06-01.01.27:586][125]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.01.27:587][125]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.01.36:741][663]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.01.36:808][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.06-01.01.37:516][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.04.06-01.01.38:151][702]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaA7E692CA48D305216F4B11A71FADFE45.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.01.38:197][702]LogFileHelpers: No new changes to save!
+[2021.04.06-01.01.38:198][702]LogFileHelpers: Saving map 'DreadlordArea' took 0.706
+[2021.04.06-01.01.38:231][702]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.01.38:231][702]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.02.39:915][ 32]LogEditorTransaction: Undo Add Node
+[2021.04.06-01.05.33:721][293]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.05.33:794][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.04.06-01.05.34:347][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.04.06-01.05.34:982][322]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordArea40599AAC4F2FCDE16FFA49A2EBFA43F6.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.05.35:028][322]LogFileHelpers: No new changes to save!
+[2021.04.06-01.05.35:029][322]LogFileHelpers: Saving map 'DreadlordArea' took 0.708
+[2021.04.06-01.05.35:076][322]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.05.35:076][322]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.08.28:273][128]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.08.28:340][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.06-01.08.29:052][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.04.06-01.08.29:727][167]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordArea600E2CF643F2C6A07F427687A28EF6AD.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.08.29:773][167]LogFileHelpers: No new changes to save!
+[2021.04.06-01.08.29:774][167]LogFileHelpers: Saving map 'DreadlordArea' took 0.747
+[2021.04.06-01.08.29:818][167]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.08.29:818][167]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.08.30:580][211]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.08.30:580][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.08.32:006][279]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.06-01.08.32:059][279]LogFMOD: Creating runtime Studio System
+[2021.04.06-01.08.32:062][279]LogFMOD: Default sample rate = 48000
+[2021.04.06-01.08.32:062][279]LogFMOD: System sample rate = 48000
+[2021.04.06-01.08.32:062][279]LogFMOD: Matching system sample rate 48000
+[2021.04.06-01.08.32:073][279]LogFMOD: Loading Banks
+[2021.04.06-01.08.32:073][279]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.04.06-01.08.32:119][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-01.08.32:119][279]PIE: New page: PIE session: DreadlordArea (6 Apr 2021, 9:08:32 pm)
+[2021.04.06-01.08.32:119][279]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.08.32:335][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.216219s)
+[2021.04.06-01.08.32:335][279]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-01.08.32:335][279]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DADB51E400), frame # 40279
+[2021.04.06-01.08.32:335][279]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DAD9A707C0), frame # 40279
+[2021.04.06-01.08.32:336][279]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2021.04.06-01.08.32:336][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea to /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea (0.217504s)
+[2021.04.06-01.08.32:358][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.06-01.08.32:360][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-01.08.32:360][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-01.08.32:360][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-01.08.32:360][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-01.08.32:360][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-01.08.32:360][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-01.08.32:360][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-01.08.32:360][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-01.08.32:360][279]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-01.08.32:360][279]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-01.08.32:365][279]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-01.08.32:365][279]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-01.08.32:383][279]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-01.08.32:383][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-01.08.32:383][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-01.08.32:383][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-01.08.32:384][279]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-01.08.32:396][279]LogInit: FAudioDevice initialized.
+[2021.04.06-01.08.32:440][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.08.32:440][279]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.06-01.08.32:469][279]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea up for play (max tick rate 60) at 2021.04.06-11.08.32
+[2021.04.06-01.08.32:471][279]LogWorld: Bringing up level for play took: 0.030045
+[2021.04.06-01.08.32:471][279]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.04.06-01.08.32:474][279]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder) has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.06-01.08.32:474][279]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder)' 
+[2021.04.06-01.08.32:482][279]PIE: Server logged in
+[2021.04.06-01.08.32:483][279]PIE: Play in editor total start time 0.455 seconds.
+[2021.04.06-01.08.38:301][560]LogSlate: Window 'DeathStrikes Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.06-01.08.38:409][560]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.08.38:447][560]LogWorld: UWorld::CleanupWorld for DreadlordArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.08.38:453][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.08.38:463][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-01.08.38:469][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.08.38:532][560]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DADB51E400), frame # 40560
+[2021.04.06-01.08.38:532][560]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DAD9A707C0), frame # 40560
+[2021.04.06-01.08.38:534][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.04.06-01.08.38:572][561]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.04.06-01.08.44:150][869]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea:PersistentLevel.DreadlordArea
+[2021.04.06-01.08.58:613][709]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.08.58:689][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.04.06-01.08.59:323][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.04.06-01.08.59:965][743]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaA6D10066473416B85C3CE8A206574B50.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.09.00:011][743]LogFileHelpers: No new changes to save!
+[2021.04.06-01.09.00:013][743]LogFileHelpers: Saving map 'DreadlordArea' took 0.716
+[2021.04.06-01.09.00:049][743]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.09.00:049][743]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.09.01:864][852]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.09.01:864][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.09.02:843][894]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.06-01.09.02:908][894]LogFMOD: Creating runtime Studio System
+[2021.04.06-01.09.02:910][894]LogFMOD: Default sample rate = 48000
+[2021.04.06-01.09.02:910][894]LogFMOD: System sample rate = 48000
+[2021.04.06-01.09.02:910][894]LogFMOD: Matching system sample rate 48000
+[2021.04.06-01.09.02:921][894]LogFMOD: Loading Banks
+[2021.04.06-01.09.02:921][894]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.04.06-01.09.02:958][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-01.09.02:958][894]PIE: New page: PIE session: DreadlordArea (6 Apr 2021, 9:09:02 pm)
+[2021.04.06-01.09.02:958][894]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.09.03:154][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195286s)
+[2021.04.06-01.09.03:155][894]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-01.09.03:155][894]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DAC0170600), frame # 41894
+[2021.04.06-01.09.03:155][894]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DAA561BEC0), frame # 41894
+[2021.04.06-01.09.03:155][894]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2021.04.06-01.09.03:155][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea to /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea (0.196516s)
+[2021.04.06-01.09.03:176][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.04.06-01.09.03:178][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-01.09.03:178][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-01.09.03:178][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-01.09.03:178][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-01.09.03:178][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-01.09.03:178][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-01.09.03:178][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-01.09.03:178][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-01.09.03:178][894]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-01.09.03:178][894]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-01.09.03:182][894]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-01.09.03:182][894]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-01.09.03:198][894]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-01.09.03:198][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-01.09.03:198][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-01.09.03:198][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-01.09.03:199][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-01.09.03:211][894]LogInit: FAudioDevice initialized.
+[2021.04.06-01.09.03:259][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.09.03:259][894]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.06-01.09.03:285][894]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea up for play (max tick rate 60) at 2021.04.06-11.09.03
+[2021.04.06-01.09.03:285][894]LogWorld: Bringing up level for play took: 0.025594
+[2021.04.06-01.09.03:286][894]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.04.06-01.09.03:290][894]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder) has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.06-01.09.03:290][894]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder)' 
+[2021.04.06-01.09.03:295][894]PIE: Server logged in
+[2021.04.06-01.09.03:296][894]PIE: Play in editor total start time 0.431 seconds.
+[2021.04.06-01.09.30:640][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.09.30:640][409]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.09.30:640][409]LogSlate: Window 'DeathStrikes Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.06-01.09.30:648][409]LogWorld: UWorld::CleanupWorld for DreadlordArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.09.30:654][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.09.30:669][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-01.09.30:674][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.09.30:746][409]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DAC0170600), frame # 43409
+[2021.04.06-01.09.30:746][409]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DAA561BEC0), frame # 43409
+[2021.04.06-01.09.30:750][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.04.06-01.09.30:834][410]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.04.06-01.09.34:148][590]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea:PersistentLevel.DreadlordArea
+[2021.04.06-01.09.57:814][947]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Enable  and was replaced as a Custom Event!
+[2021.04.06-01.11.57:784][960]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.11.57:855][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.06-01.11.58:577][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.04.06-01.11.59:217][999]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordArea8B55661F4E60167F3C4E45AC41CE6DFB.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.11.59:267][999]LogFileHelpers: No new changes to save!
+[2021.04.06-01.11.59:268][999]LogFileHelpers: Saving map 'DreadlordArea' took 0.717
+[2021.04.06-01.11.59:302][999]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.11.59:302][999]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.12.11:677][723]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.12.11:746][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.04.06-01.12.12:484][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.06-01.12.13:121][763]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaB3A3C8C74B3225897D4346B5B5DA1E10.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.12.13:172][763]LogFileHelpers: No new changes to save!
+[2021.04.06-01.12.13:173][763]LogFileHelpers: Saving map 'DreadlordArea' took 0.713
+[2021.04.06-01.12.13:212][763]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.12.13:212][763]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.12.15:029][872]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.12.15:029][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.12.16:291][932]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.06-01.12.16:339][932]LogFMOD: Creating runtime Studio System
+[2021.04.06-01.12.16:341][932]LogFMOD: Default sample rate = 48000
+[2021.04.06-01.12.16:341][932]LogFMOD: System sample rate = 48000
+[2021.04.06-01.12.16:341][932]LogFMOD: Matching system sample rate 48000
+[2021.04.06-01.12.16:353][932]LogFMOD: Loading Banks
+[2021.04.06-01.12.16:353][932]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.04.06-01.12.16:399][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-01.12.16:399][932]PIE: New page: PIE session: DreadlordArea (6 Apr 2021, 9:12:16 pm)
+[2021.04.06-01.12.16:399][932]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.12.16:588][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188706s)
+[2021.04.06-01.12.16:588][932]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-01.12.16:588][932]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DA78780400), frame # 52932
+[2021.04.06-01.12.16:589][932]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DAD9AC5080), frame # 52932
+[2021.04.06-01.12.16:589][932]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2021.04.06-01.12.16:589][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea to /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea (0.190146s)
+[2021.04.06-01.12.16:610][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.04.06-01.12.16:612][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-01.12.16:612][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-01.12.16:612][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-01.12.16:612][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-01.12.16:612][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-01.12.16:612][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-01.12.16:612][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-01.12.16:612][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-01.12.16:613][932]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-01.12.16:613][932]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-01.12.16:617][932]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-01.12.16:617][932]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-01.12.16:633][932]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-01.12.16:633][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-01.12.16:634][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-01.12.16:634][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-01.12.16:634][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-01.12.16:646][932]LogInit: FAudioDevice initialized.
+[2021.04.06-01.12.16:691][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.12.16:691][932]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.06-01.12.16:724][932]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea up for play (max tick rate 60) at 2021.04.06-11.12.16
+[2021.04.06-01.12.16:725][932]LogWorld: Bringing up level for play took: 0.033726
+[2021.04.06-01.12.16:725][932]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.04.06-01.12.16:729][932]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder) has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.06-01.12.16:729][932]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder)' 
+[2021.04.06-01.12.16:735][932]PIE: Server logged in
+[2021.04.06-01.12.16:736][932]PIE: Play in editor total start time 0.422 seconds.
+[2021.04.06-01.13.06:152][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.13.06:153][693]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.13.06:153][693]LogSlate: Window 'DeathStrikes Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.06-01.13.06:161][693]LogWorld: UWorld::CleanupWorld for DreadlordArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.13.06:167][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.13.06:181][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-01.13.06:186][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.13.06:256][693]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA78780400), frame # 55693
+[2021.04.06-01.13.06:256][693]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DAD9AC5080), frame # 55693
+[2021.04.06-01.13.06:259][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.04.06-01.13.06:333][694]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.04.06-01.13.10:193][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.04.06-01.13.10:229][919]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Magical_Portal_CueDB3B1A954E43755700529E91A9535544.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Audio/Environmental_Sounds/Magical_Portal_Cue.uasset'
+[2021.04.06-01.13.10:245][919]AssetCheck: New page: Asset Save: Magical_Portal_Cue
+[2021.04.06-01.13.10:245][919]LogContentValidation: Display: Validating SoundCue /Game/Audio/Environmental_Sounds/Magical_Portal_Cue.Magical_Portal_Cue
+[2021.04.06-01.13.13:148][ 86]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea:PersistentLevel.DreadlordArea
+[2021.04.06-01.14.17:457][883]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.14.17:527][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.04.06-01.14.18:313][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.06-01.14.18:968][924]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaFC994B934BC9572B64937A8828AEE925.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.14.19:014][924]LogFileHelpers: No new changes to save!
+[2021.04.06-01.14.19:015][924]LogFileHelpers: Saving map 'DreadlordArea' took 0.726
+[2021.04.06-01.14.19:058][924]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.14.19:058][924]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.16.30:251][572]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.16.30:251][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.16.46:888][536]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea:PersistentLevel.DreadlordArea
+[2021.04.06-01.18.37:405][941]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.18.37:477][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.04.06-01.18.38:119][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.04.06-01.18.38:759][975]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordArea2319A08344A6D95385D30CB833035DA7.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.18.38:804][975]LogFileHelpers: No new changes to save!
+[2021.04.06-01.18.38:805][975]LogFileHelpers: Saving map 'DreadlordArea' took 0.715
+[2021.04.06-01.18.38:847][975]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.18.38:847][975]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.18.56:404][  3]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.18.56:404][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.18.57:945][ 84]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.06-01.18.57:998][ 84]LogFMOD: Creating runtime Studio System
+[2021.04.06-01.18.58:002][ 84]LogFMOD: Default sample rate = 48000
+[2021.04.06-01.18.58:002][ 84]LogFMOD: System sample rate = 48000
+[2021.04.06-01.18.58:002][ 84]LogFMOD: Matching system sample rate 48000
+[2021.04.06-01.18.58:014][ 84]LogFMOD: Loading Banks
+[2021.04.06-01.18.58:014][ 84]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.04.06-01.18.58:059][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-01.18.58:059][ 84]PIE: New page: PIE session: DreadlordArea (6 Apr 2021, 9:18:58 pm)
+[2021.04.06-01.18.58:059][ 84]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.18.58:249][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.189805s)
+[2021.04.06-01.18.58:250][ 84]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-01.18.58:250][ 84]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DADD73B600), frame # 72084
+[2021.04.06-01.18.58:250][ 84]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DADEF49F80), frame # 72084
+[2021.04.06-01.18.58:250][ 84]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2021.04.06-01.18.58:250][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea to /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea (0.191079s)
+[2021.04.06-01.18.58:271][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.04.06-01.18.58:274][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-01.18.58:274][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-01.18.58:274][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-01.18.58:274][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-01.18.58:274][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-01.18.58:274][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-01.18.58:274][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-01.18.58:274][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-01.18.58:274][ 84]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-01.18.58:274][ 84]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-01.18.58:278][ 84]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-01.18.58:278][ 84]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-01.18.58:295][ 84]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-01.18.58:295][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-01.18.58:295][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-01.18.58:295][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-01.18.58:295][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-01.18.58:307][ 84]LogInit: FAudioDevice initialized.
+[2021.04.06-01.18.58:363][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.18.58:364][ 84]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.06-01.18.58:397][ 84]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea up for play (max tick rate 60) at 2021.04.06-11.18.58
+[2021.04.06-01.18.58:399][ 84]LogWorld: Bringing up level for play took: 0.033955
+[2021.04.06-01.18.58:399][ 84]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.06-01.18.58:401][ 84]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder) has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.06-01.18.58:401][ 84]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder)' 
+[2021.04.06-01.18.58:406][ 84]PIE: Server logged in
+[2021.04.06-01.18.58:407][ 84]PIE: Play in editor total start time 0.439 seconds.
+[2021.04.06-01.19.15:570][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.19.15:570][  9]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.19.15:570][  9]LogSlate: Window 'DeathStrikes Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.06-01.19.15:576][  9]LogWorld: UWorld::CleanupWorld for DreadlordArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.19.15:583][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.19.15:598][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-01.19.15:605][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.19.15:673][  9]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DADD73B600), frame # 73009
+[2021.04.06-01.19.15:674][  9]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DADEF49F80), frame # 73009
+[2021.04.06-01.19.15:677][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.04.06-01.19.15:760][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.06-01.19.19:119][203]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea:PersistentLevel.DreadlordArea
+[2021.04.06-01.20.01:283][681]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.20.01:355][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.04.06-01.20.02:014][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.06-01.20.02:671][716]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaB90161AC442C9AD1E670BEBFD07FB104.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.20.02:716][716]LogFileHelpers: No new changes to save!
+[2021.04.06-01.20.02:717][716]LogFileHelpers: Saving map 'DreadlordArea' took 0.731
+[2021.04.06-01.20.02:759][716]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.20.02:759][716]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.20.33:697][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.06-01.20.34:335][559]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaAF39E806436CF9BCCD16169A92B7F283.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.20.34:383][559]LogFileHelpers: No new changes to save!
+[2021.04.06-01.20.34:384][559]LogFileHelpers: Saving map 'DreadlordArea' took 0.712
+[2021.04.06-01.20.34:428][559]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.20.34:428][559]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.21.21:764][374]BlueprintLog: New page: Compile DreadlordArea
+[2021.04.06-01.21.21:833][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.04.06-01.21.22:595][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.04.06-01.21.23:233][415]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaF853D7A645A93691FC0B7FA700ED66F7.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.06-01.21.23:280][415]LogFileHelpers: No new changes to save!
+[2021.04.06-01.21.23:281][415]LogFileHelpers: Saving map 'DreadlordArea' took 0.713
+[2021.04.06-01.21.23:323][415]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.06-01.21.23:323][415]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.06-01.21.24:470][483]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.21.24:470][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.21.25:367][521]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.06-01.21.25:418][521]LogFMOD: Creating runtime Studio System
+[2021.04.06-01.21.25:421][521]LogFMOD: Default sample rate = 48000
+[2021.04.06-01.21.25:421][521]LogFMOD: System sample rate = 48000
+[2021.04.06-01.21.25:421][521]LogFMOD: Matching system sample rate 48000
+[2021.04.06-01.21.25:432][521]LogFMOD: Loading Banks
+[2021.04.06-01.21.25:433][521]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.04.06-01.21.25:478][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-01.21.25:478][521]PIE: New page: PIE session: DreadlordArea (6 Apr 2021, 9:21:25 pm)
+[2021.04.06-01.21.25:478][521]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.21.25:674][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196229s)
+[2021.04.06-01.21.25:675][521]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-01.21.25:675][521]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DACC386C00), frame # 80521
+[2021.04.06-01.21.25:675][521]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DADDB1EE80), frame # 80521
+[2021.04.06-01.21.25:675][521]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2021.04.06-01.21.25:675][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea to /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea (0.197392s)
+[2021.04.06-01.21.25:696][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.04.06-01.21.25:699][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-01.21.25:699][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-01.21.25:699][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-01.21.25:699][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-01.21.25:699][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-01.21.25:699][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-01.21.25:699][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-01.21.25:699][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-01.21.25:700][521]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-01.21.25:700][521]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-01.21.25:703][521]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-01.21.25:703][521]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-01.21.25:736][521]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-01.21.25:736][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-01.21.25:736][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-01.21.25:736][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-01.21.25:736][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-01.21.25:748][521]LogInit: FAudioDevice initialized.
+[2021.04.06-01.21.25:799][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.21.25:799][521]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.06-01.21.25:827][521]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea up for play (max tick rate 60) at 2021.04.06-11.21.25
+[2021.04.06-01.21.25:828][521]LogWorld: Bringing up level for play took: 0.029306
+[2021.04.06-01.21.25:828][521]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.06-01.21.25:831][521]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder) has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.06-01.21.25:831][521]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder)' 
+[2021.04.06-01.21.25:835][521]PIE: Server logged in
+[2021.04.06-01.21.25:836][521]PIE: Play in editor total start time 0.448 seconds.
+[2021.04.06-01.21.29:361][682]LogSlate: Window 'DeathStrikes Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.06-01.21.29:469][682]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.21.29:509][682]LogWorld: UWorld::CleanupWorld for DreadlordArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.21.29:512][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.21.29:521][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-01.21.29:528][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.21.29:570][682]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DADDB1EE80), frame # 80682
+[2021.04.06-01.21.29:570][682]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DACC386C00), frame # 80682
+[2021.04.06-01.21.29:574][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.04.06-01.21.29:619][683]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.06-01.21.51:906][981]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/In-GameWidgets/PauseMenu_Widget.PauseMenu_Widget
+[2021.04.06-01.21.54:677][ 96]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.21.54:677][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.21.54:681][ 96]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.21.54:681][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.21.56:073][171]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/In-GameWidgets/bp_enemyhealth.bp_enemyhealth
+[2021.04.06-01.21.57:758][241]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.21.57:758][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.21.57:763][241]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.21.57:763][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.21.58:951][305]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/In-GameWidgets/Dead_Widget.Dead_Widget
+[2021.04.06-01.22.00:689][387]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.22.00:689][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.22.00:694][387]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.22.00:694][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.22.02:849][506]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/In-GameWidgets/PauseMenu_Widget.PauseMenu_Widget
+[2021.04.06-01.22.04:287][571]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.22.04:287][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.22.04:292][571]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.22.04:292][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.22.05:134][615]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UserInterface/In-GameWidgets/UI_Template_No_Minimap.UI_Template_No_Minimap
+[2021.04.06-01.22.05:170][615]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.04.06-01.22.10:254][877]LogSlate: Window 'UI_Template_No_Minimap' being destroyed
+[2021.04.06-01.22.20:023][449]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea:PersistentLevel.DreadlordArea
+[2021.04.06-01.22.36:835][375]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/In-GameWidgets/Dead_Widget.Dead_Widget
+[2021.04.06-01.22.40:156][552]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.22.40:156][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.22.40:164][552]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.22.40:164][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.23.02:348][116]LogHoudiniEngine: Error: Hapi failed: No valid Houdini Engine session.
+[2021.04.06-01.23.49:955][145]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue1.Cutscene1Dialogue1
+[2021.04.06-01.24.35:922][776]LogSlate: Window 'Cutscene1Dialogue1' being destroyed
+[2021.04.06-01.25.54:182][854]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Cutscene1Dialogue195C10D6A4C339E36AEAE1C8AB5306E63.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Cutscenes/Audio/Cutscene1Dialogue1.uasset'
+[2021.04.06-01.25.54:202][854]AssetCheck: New page: Asset Save: Cutscene1Dialogue1
+[2021.04.06-01.25.54:202][854]LogContentValidation: Display: Validating SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue1.Cutscene1Dialogue1
+[2021.04.06-01.26.15:068][139]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Cutscene1Dialogue10D7EE7AB4474DB3EE39AF1A842109973.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Cutscenes/Audio/Cutscene1Dialogue1.uasset'
+[2021.04.06-01.26.15:089][139]AssetCheck: New page: Asset Save: Cutscene1Dialogue1
+[2021.04.06-01.26.15:089][139]LogContentValidation: Display: Validating SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue1.Cutscene1Dialogue1
+[2021.04.06-01.26.18:086][309]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.06-01.26.18:149][309]LogFMOD: Creating runtime Studio System
+[2021.04.06-01.26.18:152][309]LogFMOD: Default sample rate = 48000
+[2021.04.06-01.26.18:152][309]LogFMOD: System sample rate = 48000
+[2021.04.06-01.26.18:152][309]LogFMOD: Matching system sample rate 48000
+[2021.04.06-01.26.18:165][309]LogFMOD: Loading Banks
+[2021.04.06-01.26.18:165][309]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.04.06-01.26.18:208][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-01.26.18:208][309]PIE: New page: PIE session: DreadlordArea (6 Apr 2021, 9:26:18 pm)
+[2021.04.06-01.26.18:208][309]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.26.18:405][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196965s)
+[2021.04.06-01.26.18:406][309]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-01.26.18:406][309]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DABCD15A00), frame # 90309
+[2021.04.06-01.26.18:406][309]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DB4E797D80), frame # 90309
+[2021.04.06-01.26.18:406][309]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2021.04.06-01.26.18:406][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea to /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea (0.198353s)
+[2021.04.06-01.26.18:576][309]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2021.04.06-01.26.18:580][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-01.26.18:581][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-01.26.18:581][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-01.26.18:581][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-01.26.18:581][309]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-01.26.18:581][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-01.26.18:581][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-01.26.18:581][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-01.26.18:581][309]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-01.26.18:581][309]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-01.26.18:585][309]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-01.26.18:585][309]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-01.26.18:603][309]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-01.26.18:604][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-01.26.18:604][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-01.26.18:604][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-01.26.18:604][309]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-01.26.18:617][309]LogInit: FAudioDevice initialized.
+[2021.04.06-01.26.18:668][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.26.18:668][309]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.06-01.26.18:698][309]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea up for play (max tick rate 60) at 2021.04.06-11.26.18
+[2021.04.06-01.26.18:699][309]LogWorld: Bringing up level for play took: 0.030709
+[2021.04.06-01.26.18:699][309]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.04.06-01.26.18:702][309]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder) has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.06-01.26.18:702][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder)' 
+[2021.04.06-01.26.18:708][309]PIE: Server logged in
+[2021.04.06-01.26.18:709][309]PIE: Play in editor total start time 0.601 seconds.
+[2021.04.06-01.26.27:690][750]LogSlate: Window 'DeathStrikes Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.06-01.26.27:811][750]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.26.27:837][750]LogWorld: UWorld::CleanupWorld for DreadlordArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.26.27:841][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.26.27:854][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-01.26.27:862][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.26.27:939][750]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DABCD15A00), frame # 90750
+[2021.04.06-01.26.27:939][750]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DB4E797D80), frame # 90750
+[2021.04.06-01.26.27:945][750]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.04.06-01.26.27:982][751]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.04.06-01.26.29:971][859]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue2.Cutscene1Dialogue2
+[2021.04.06-01.27.06:790][924]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Cutscene1Dialogue24C8F6ED2454F60119D944C8328E07128.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Cutscenes/Audio/Cutscene1Dialogue2.uasset'
+[2021.04.06-01.27.06:814][924]AssetCheck: New page: Asset Save: Cutscene1Dialogue2
+[2021.04.06-01.27.06:814][924]LogContentValidation: Display: Validating SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue2.Cutscene1Dialogue2
+[2021.04.06-01.27.09:533][ 75]LogSlate: Window 'Cutscene1Dialogue2' being destroyed
+[2021.04.06-01.27.10:983][155]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue3.Cutscene1Dialogue3
+[2021.04.06-01.28.09:371][798]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Cutscene1Dialogue3BAC2F5474639EC3AAA5F1D8092D23301.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Cutscenes/Audio/Cutscene1Dialogue3.uasset'
+[2021.04.06-01.28.09:386][798]AssetCheck: New page: Asset Save: Cutscene1Dialogue3
+[2021.04.06-01.28.09:386][798]LogContentValidation: Display: Validating SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue3.Cutscene1Dialogue3
+[2021.04.06-01.28.10:410][852]LogSlate: Window 'Cutscene1Dialogue3' being destroyed
+[2021.04.06-01.28.11:689][913]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue4.Cutscene1Dialogue4
+[2021.04.06-01.28.47:477][159]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Cutscene1Dialogue40FD6C0C544DD38E03256F29E3A0DD6A4.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Cutscenes/Audio/Cutscene1Dialogue4.uasset'
+[2021.04.06-01.28.47:501][159]AssetCheck: New page: Asset Save: Cutscene1Dialogue4
+[2021.04.06-01.28.47:501][159]LogContentValidation: Display: Validating SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue4.Cutscene1Dialogue4
+[2021.04.06-01.28.48:816][227]LogSlate: Window 'Cutscene1Dialogue4' being destroyed
+[2021.04.06-01.28.50:519][323]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Cutscenes/Audio/Cutscene2Dialogue.Cutscene2Dialogue
+[2021.04.06-01.30.26:480][562]LogSavePackage: Moving '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Saved/Cutscene2Dialogue725F31F6462820B7E982E088A315146D.tmp' to '../../../../../../Users/arjun/Documents/GitHub/CIU330-Major-Project/DeathStrikes/Content/Cutscenes/Audio/Cutscene2Dialogue.uasset'
+[2021.04.06-01.30.26:498][562]AssetCheck: New page: Asset Save: Cutscene2Dialogue
+[2021.04.06-01.30.26:498][562]LogContentValidation: Display: Validating SoundWave /Game/Cutscenes/Audio/Cutscene2Dialogue.Cutscene2Dialogue
+[2021.04.06-01.30.27:886][640]LogSlate: Window 'Cutscene2Dialogue' being destroyed
+[2021.04.06-01.30.32:088][885]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.06-01.30.32:169][885]LogFMOD: Creating runtime Studio System
+[2021.04.06-01.30.32:174][885]LogFMOD: Default sample rate = 48000
+[2021.04.06-01.30.32:174][885]LogFMOD: System sample rate = 48000
+[2021.04.06-01.30.32:174][885]LogFMOD: Matching system sample rate 48000
+[2021.04.06-01.30.32:194][885]LogFMOD: Loading Banks
+[2021.04.06-01.30.32:194][885]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2021.04.06-01.30.32:238][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.06-01.30.32:238][885]PIE: New page: PIE session: DreadlordArea (6 Apr 2021, 9:30:32 pm)
+[2021.04.06-01.30.32:238][885]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.30.32:550][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.311788s)
+[2021.04.06-01.30.32:552][885]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.06-01.30.32:552][885]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DABC2ABC00), frame # 99885
+[2021.04.06-01.30.32:552][885]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DADADF60C0), frame # 99885
+[2021.04.06-01.30.32:552][885]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2021.04.06-01.30.32:553][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea to /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea (0.313929s)
+[2021.04.06-01.30.32:591][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.04.06-01.30.32:606][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.06-01.30.32:607][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.06-01.30.32:607][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.06-01.30.32:607][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.06-01.30.32:607][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.06-01.30.32:607][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.06-01.30.32:607][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.06-01.30.32:607][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.06-01.30.32:607][885]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.06-01.30.32:607][885]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.06-01.30.32:613][885]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.06-01.30.32:613][885]LogAudioMixer: Display: 1: FrontRight
+[2021.04.06-01.30.32:641][885]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless + 7.1)
+[2021.04.06-01.30.32:641][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.06-01.30.32:641][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.06-01.30.32:641][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.06-01.30.32:642][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.06-01.30.32:661][885]LogInit: FAudioDevice initialized.
+[2021.04.06-01.30.32:724][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.30.32:724][885]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.06-01.30.32:767][885]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea up for play (max tick rate 60) at 2021.04.06-11.30.32
+[2021.04.06-01.30.32:769][885]LogWorld: Bringing up level for play took: 0.043923
+[2021.04.06-01.30.32:769][885]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.06-01.30.32:772][885]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder) has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.04.06-01.30.32:772][885]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea.DreadlordArea:PersistentLevel.Knight_C_0.Throwing Knife (holder)' 
+[2021.04.06-01.30.32:780][885]PIE: Server logged in
+[2021.04.06-01.30.32:782][885]PIE: Play in editor total start time 0.657 seconds.
+[2021.04.06-01.32.48:738][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.06-01.32.48:738][253]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_DreadlordArea
+[2021.04.06-01.32.48:738][253]LogSlate: Window 'DeathStrikes Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.06-01.32.48:745][253]LogWorld: UWorld::CleanupWorld for DreadlordArea, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.32.48:753][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.32.48:769][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.06-01.32.48:778][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.32.48:848][253]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DADADF60C0), frame # 107253
+[2021.04.06-01.32.48:848][253]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DABC2ABC00), frame # 107253
+[2021.04.06-01.32.48:856][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.04.06-01.32.48:919][254]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.06-01.32.53:185][499]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.32.53:185][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.06-01.32.54:855][588]LogUObjectHash: Compacting FUObjectHashTables data took   9.79ms
+[2021.04.06-01.32.57:064][688]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2021.04.06-01.32.57:262][688]LogSlate: Window 'DeathStrikes - Unreal Editor' being destroyed
+[2021.04.06-01.32.57:263][688]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.06-01.32.57:667][689]Cmd: QUIT_EDITOR
+[2021.04.06-01.32.57:668][689]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.04.06-01.32.57:689][689]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.04.06-01.32.58:130][689]LogExit: Preparing to exit.
+[2021.04.06-01.32.59:218][689]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.32.59:220][689]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.32.59:222][689]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.32.59:224][689]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.32.59:226][689]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.32.59:311][689]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.04.06-01.32.59:334][689]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.04.06-01.32.59:338][689]LogExit: Editor shut down
+[2021.04.06-01.32.59:340][689]LogExit: Transaction tracking system shut down
+[2021.04.06-01.32.59:733][689]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001DA4E44D800), frame # 107689
+[2021.04.06-01.32.59:733][689]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA4E3E4900), frame # 107689
+[2021.04.06-01.32.59:734][689]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA4E411E00), frame # 107689
+[2021.04.06-01.32.59:920][689]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DA64649400), frame # 107689
+[2021.04.06-01.32.59:920][689]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DA45C0C180), frame # 107689
+[2021.04.06-01.33.00:045][689]LogExit: Object subsystem successfully closed.
+[2021.04.06-01.33.00:086][689]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.04.06-01.33.00:197][689]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (812)
+[2021.04.06-01.33.00:197][689]LogModuleManager: Shutting down and abandoning module TextureEditor (810)
+[2021.04.06-01.33.00:198][689]LogModuleManager: Shutting down and abandoning module SequencerWidgets (808)
+[2021.04.06-01.33.00:198][689]LogModuleManager: Shutting down and abandoning module BlueprintGraph (806)
+[2021.04.06-01.33.00:198][689]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (804)
+[2021.04.06-01.33.00:198][689]LogModuleManager: Shutting down and abandoning module Voice (802)
+[2021.04.06-01.33.00:198][689]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (800)
+[2021.04.06-01.33.00:198][689]LogModuleManager: Shutting down and abandoning module SceneOutliner (798)
+[2021.04.06-01.33.00:199][689]LogModuleManager: Shutting down and abandoning module AddContentDialog (796)
+[2021.04.06-01.33.00:205][689]LogModuleManager: Shutting down and abandoning module WidgetCarousel (795)
+[2021.04.06-01.33.00:205][689]LogModuleManager: Shutting down and abandoning module EditorWidgets (792)
+[2021.04.06-01.33.00:205][689]LogModuleManager: Shutting down and abandoning module CollectionManager (790)
+[2021.04.06-01.33.00:206][689]LogModuleManager: Shutting down and abandoning module StatsViewer (788)
+[2021.04.06-01.33.00:207][689]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2021.04.06-01.33.00:207][689]LogModuleManager: Shutting down and abandoning module FoliageEdit (784)
+[2021.04.06-01.33.00:208][689]LogModuleManager: Shutting down and abandoning module LandscapeEditor (782)
+[2021.04.06-01.33.00:210][689]LogModuleManager: Shutting down and abandoning module MeshPaintMode (780)
+[2021.04.06-01.33.00:211][689]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2021.04.06-01.33.00:211][689]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2021.04.06-01.33.00:211][689]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (774)
+[2021.04.06-01.33.00:212][689]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (772)
+[2021.04.06-01.33.00:212][689]LogModuleManager: Shutting down and abandoning module AutomationWorker (770)
+[2021.04.06-01.33.00:213][689]LogModuleManager: Shutting down and abandoning module SteamVREditor (768)
+[2021.04.06-01.33.00:213][689]LogModuleManager: Shutting down and abandoning module OculusMR (766)
+[2021.04.06-01.33.00:213][689]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (764)
+[2021.04.06-01.33.00:213][689]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2021.04.06-01.33.00:214][689]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2021.04.06-01.33.00:215][689]LogModuleManager: Shutting down and abandoning module GooglePADEditor (762)
+[2021.04.06-01.33.00:215][689]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (760)
+[2021.04.06-01.33.00:215][689]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (758)
+[2021.04.06-01.33.00:216][689]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (756)
+[2021.04.06-01.33.00:216][689]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (754)
+[2021.04.06-01.33.00:218][689]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (752)
+[2021.04.06-01.33.00:220][689]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (750)
+[2021.04.06-01.33.00:220][689]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (748)
+[2021.04.06-01.33.00:220][689]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (746)
+[2021.04.06-01.33.00:220][689]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (744)
+[2021.04.06-01.33.00:220][689]LogModuleManager: Shutting down and abandoning module WebMMedia (742)
+[2021.04.06-01.33.00:220][689]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (740)
+[2021.04.06-01.33.00:221][689]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (738)
+[2021.04.06-01.33.00:221][689]LogModuleManager: Shutting down and abandoning module SequenceRecorder (737)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (734)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (732)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (730)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (728)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (726)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (724)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (722)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (720)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (718)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (716)
+[2021.04.06-01.33.00:222][689]LogModuleManager: Shutting down and abandoning module PlanarCut (714)
+[2021.04.06-01.33.00:223][689]LogModuleManager: Shutting down and abandoning module CharacterAI (712)
+[2021.04.06-01.33.00:223][689]LogModuleManager: Shutting down and abandoning module TextureAlignMode (710)
+[2021.04.06-01.33.00:223][689]LogModuleManager: Shutting down and abandoning module BspMode (708)
+[2021.04.06-01.33.00:224][689]LogModuleManager: Shutting down and abandoning module PlacementMode (707)
+[2021.04.06-01.33.00:224][689]LogModuleManager: Shutting down and abandoning module GeometryMode (704)
+[2021.04.06-01.33.00:224][689]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (702)
+[2021.04.06-01.33.00:224][689]LogModuleManager: Shutting down and abandoning module SmartSnapping (700)
+[2021.04.06-01.33.00:225][689]LogModuleManager: Shutting down and abandoning module SessionServices (698)
+[2021.04.06-01.33.00:225][689]LogModuleManager: Shutting down and abandoning module MeshPaint (696)
+[2021.04.06-01.33.00:226][689]LogModuleManager: Shutting down and abandoning module ViewportSnapping (694)
+[2021.04.06-01.33.00:226][689]LogModuleManager: Shutting down and abandoning module ViewportInteraction (692)
+[2021.04.06-01.33.00:226][689]LogModuleManager: Shutting down and abandoning module ClothPainter (690)
+[2021.04.06-01.33.00:227][689]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (689)
+[2021.04.06-01.33.00:229][689]LogModuleManager: Shutting down and abandoning module LogVisualizer (686)
+[2021.04.06-01.33.00:231][689]LogModuleManager: Shutting down and abandoning module IntroTutorials (684)
+[2021.04.06-01.33.00:231][689]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (683)
+[2021.04.06-01.33.00:232][689]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (680)
+[2021.04.06-01.33.00:232][689]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (678)
+[2021.04.06-01.33.00:232][689]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (676)
+[2021.04.06-01.33.00:232][689]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (675)
+[2021.04.06-01.33.01:065][689]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (672)
+[2021.04.06-01.33.01:065][689]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (670)
+[2021.04.06-01.33.01:065][689]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (668)
+[2021.04.06-01.33.01:065][689]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (666)
+[2021.04.06-01.33.01:065][689]LogModuleManager: Shutting down and abandoning module TraceInsights (664)
+[2021.04.06-01.33.01:080][689]LogModuleManager: Shutting down and abandoning module TraceServices (663)
+[2021.04.06-01.33.01:082][689]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (660)
+[2021.04.06-01.33.01:082][689]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (658)
+[2021.04.06-01.33.01:083][689]LogModuleManager: Shutting down and abandoning module InputBindingEditor (656)
+[2021.04.06-01.33.01:083][689]LogModuleManager: Shutting down and abandoning module MergeActors (654)
+[2021.04.06-01.33.01:084][689]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (652)
+[2021.04.06-01.33.01:085][689]LogModuleManager: Shutting down and abandoning module LocalizationService (651)
+[2021.04.06-01.33.01:086][689]LogModuleManager: Shutting down and abandoning module HardwareTargeting (648)
+[2021.04.06-01.33.01:086][689]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (646)
+[2021.04.06-01.33.01:086][689]LogModuleManager: Shutting down and abandoning module UndoHistory (644)
+[2021.04.06-01.33.01:087][689]LogModuleManager: Shutting down and abandoning module XmlParser (642)
+[2021.04.06-01.33.01:087][689]LogModuleManager: Shutting down and abandoning module Blutility (640)
+[2021.04.06-01.33.01:087][689]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (638)
+[2021.04.06-01.33.01:087][689]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (637)
+[2021.04.06-01.33.01:088][689]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (634)
+[2021.04.06-01.33.01:088][689]LogModuleManager: Shutting down and abandoning module SettingsEditor (632)
+[2021.04.06-01.33.01:088][689]LogModuleManager: Shutting down and abandoning module ProjectLauncher (630)
+[2021.04.06-01.33.01:089][689]LogModuleManager: Shutting down and abandoning module SessionFrontend (628)
+[2021.04.06-01.33.01:089][689]LogModuleManager: Shutting down and abandoning module ProfilerClient (626)
+[2021.04.06-01.33.01:089][689]LogModuleManager: Shutting down and abandoning module DeviceManager (624)
+[2021.04.06-01.33.01:091][689]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (623)
+[2021.04.06-01.33.01:124][689]LogModuleManager: Shutting down and abandoning module AutomationController (620)
+[2021.04.06-01.33.01:124][689]LogModuleManager: Shutting down and abandoning module AutomationWindow (618)
+[2021.04.06-01.33.01:125][689]LogModuleManager: Shutting down and abandoning module Layers (616)
+[2021.04.06-01.33.01:128][689]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (614)
+[2021.04.06-01.33.01:128][689]LogModuleManager: Shutting down and abandoning module DetailCustomizations (612)
+[2021.04.06-01.33.01:128][689]LogModuleManager: Shutting down and abandoning module PackagesDialog (610)
+[2021.04.06-01.33.01:130][689]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (608)
+[2021.04.06-01.33.01:132][689]LogModuleManager: Shutting down and abandoning module Persona (606)
+[2021.04.06-01.33.01:134][689]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (605)
+[2021.04.06-01.33.01:135][689]LogModuleManager: Shutting down and abandoning module AnimGraph (603)
+[2021.04.06-01.33.01:135][689]LogModuleManager: Shutting down and abandoning module Kismet (600)
+[2021.04.06-01.33.01:141][689]LogModuleManager: Shutting down and abandoning module KismetWidgets (599)
+[2021.04.06-01.33.01:141][689]LogModuleManager: Shutting down and abandoning module GraphEditor (596)
+[2021.04.06-01.33.01:141][689]LogModuleManager: Shutting down and abandoning module StructViewer (594)
+[2021.04.06-01.33.01:141][689]LogModuleManager: Shutting down and abandoning module ClassViewer (592)
+[2021.04.06-01.33.01:141][689]LogModuleManager: Shutting down and abandoning module Toolbox (590)
+[2021.04.06-01.33.01:142][689]LogModuleManager: Shutting down and abandoning module ModuleUI (588)
+[2021.04.06-01.33.01:143][689]LogModuleManager: Shutting down and abandoning module OutputLog (586)
+[2021.04.06-01.33.01:144][689]LogModuleManager: Shutting down and abandoning module GammaUI (584)
+[2021.04.06-01.33.01:144][689]LogModuleManager: Shutting down and abandoning module Documentation (582)
+[2021.04.06-01.33.01:144][689]LogModuleManager: Shutting down and abandoning module LiveCoding (580)
+[2021.04.06-01.33.01:145][689]LogModuleManager: Shutting down and abandoning module LevelSequence (578)
+[2021.04.06-01.33.01:146][689]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (576)
+[2021.04.06-01.33.01:146][689]LogModuleManager: Shutting down and abandoning module MovieScene (574)
+[2021.04.06-01.33.01:146][689]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (572)
+[2021.04.06-01.33.01:147][689]LogModuleManager: Shutting down and abandoning module LauncherPlatform (570)
+[2021.04.06-01.33.01:147][689]LogModuleManager: Shutting down and abandoning module AnalyticsET (568)
+[2021.04.06-01.33.01:147][689]LogModuleManager: Shutting down and abandoning module PortalServices (566)
+[2021.04.06-01.33.01:147][689]LogModuleManager: Shutting down and abandoning module PortalRpc (564)
+[2021.04.06-01.33.01:147][689]LogModuleManager: Shutting down and abandoning module MessagingRpc (562)
+[2021.04.06-01.33.01:147][689]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (560)
+[2021.04.06-01.33.01:147][689]LogModuleManager: Shutting down and abandoning module AudioMixerCore (559)
+[2021.04.06-01.33.01:147][689]LogModuleManager: Shutting down and abandoning module AIModule (556)
+[2021.04.06-01.33.01:149][689]LogModuleManager: Shutting down and abandoning module GameplayDebugger (555)
+[2021.04.06-01.33.01:149][689]LogModuleManager: Shutting down and abandoning module AITestSuite (553)
+[2021.04.06-01.33.01:149][689]LogModuleManager: Shutting down and abandoning module NavigationSystem (551)
+[2021.04.06-01.33.01:149][689]LogModuleManager: Shutting down and abandoning module ProfilerService (548)
+[2021.04.06-01.33.01:165][689]LogModuleManager: Shutting down and abandoning module TaskGraph (546)
+[2021.04.06-01.33.01:166][689]LogModuleManager: Shutting down and abandoning module ScreenshotTools (544)
+[2021.04.06-01.33.01:166][689]LogModuleManager: Shutting down and abandoning module SynthesisEditor (542)
+[2021.04.06-01.33.01:166][689]LogModuleManager: Shutting down and abandoning module Synthesis (540)
+[2021.04.06-01.33.01:167][689]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (538)
+[2021.04.06-01.33.01:167][689]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (536)
+[2021.04.06-01.33.01:167][689]LogModuleManager: Shutting down and abandoning module OculusEditor (534)
+[2021.04.06-01.33.01:169][689]LogModuleManager: Shutting down and abandoning module OculusInput (532)
+[2021.04.06-01.33.01:169][689]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (530)
+[2021.04.06-01.33.01:169][689]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (528)
+[2021.04.06-01.33.01:169][689]LogModuleManager: Shutting down and abandoning module HoudiniEngine (526)
+[2021.04.06-01.33.01:169][689]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2021.04.06-01.33.01:271][689]LogModuleManager: Shutting down and abandoning module GooglePAD (524)
+[2021.04.06-01.33.01:271][689]LogModuleManager: Shutting down and abandoning module EditableMesh (522)
+[2021.04.06-01.33.01:271][689]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (520)
+[2021.04.06-01.33.01:271][689]LogModuleManager: Shutting down and abandoning module CableComponent (518)
+[2021.04.06-01.33.01:272][689]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2021.04.06-01.33.01:272][689]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (515)
+[2021.04.06-01.33.01:272][689]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2021.04.06-01.33.01:272][689]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (510)
+[2021.04.06-01.33.01:272][689]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (508)
+[2021.04.06-01.33.01:272][689]LogModuleManager: Shutting down and abandoning module AppleImageUtils (506)
+[2021.04.06-01.33.01:272][689]LogModuleManager: Shutting down and abandoning module AndroidPermission (504)
+[2021.04.06-01.33.01:272][689]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (502)
+[2021.04.06-01.33.01:273][689]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (500)
+[2021.04.06-01.33.01:274][689]LogModuleManager: Shutting down and abandoning module TemplateSequence (498)
+[2021.04.06-01.33.01:274][689]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (496)
+[2021.04.06-01.33.01:274][689]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (494)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (492)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (490)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (489)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (486)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (484)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MediaCompositing (482)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module ImgMedia (480)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (478)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (476)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (474)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (472)
+[2021.04.06-01.33.01:275][689]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (470)
+[2021.04.06-01.33.01:276][689]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2021.04.06-01.33.01:278][689]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (466)
+[2021.04.06-01.33.01:278][689]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2021.04.06-01.33.01:279][689]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2021.04.06-01.33.01:279][689]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2021.04.06-01.33.01:280][689]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2021.04.06-01.33.01:281][689]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
+[2021.04.06-01.33.01:282][689]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (438)
+[2021.04.06-01.33.01:282][689]LogModuleManager: Shutting down and abandoning module ChaosCloth (436)
+[2021.04.06-01.33.01:282][689]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2021.04.06-01.33.01:282][689]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2021.04.06-01.33.01:283][689]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2021.04.06-01.33.01:283][689]LogModuleManager: Shutting down and abandoning module AlembicImporter (428)
+[2021.04.06-01.33.01:283][689]LogModuleManager: Shutting down and abandoning module AlembicLibrary (427)
+[2021.04.06-01.33.01:283][689]LogModuleManager: Shutting down and abandoning module GeometryCache (426)
+[2021.04.06-01.33.01:283][689]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (425)
+[2021.04.06-01.33.01:283][689]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2021.04.06-01.33.01:283][689]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2021.04.06-01.33.01:284][689]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2021.04.06-01.33.01:284][689]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2021.04.06-01.33.01:288][689]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2021.04.06-01.33.01:289][689]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2021.04.06-01.33.01:289][689]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2021.04.06-01.33.01:290][689]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2021.04.06-01.33.01:290][689]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2021.04.06-01.33.01:290][689]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2021.04.06-01.33.01:290][689]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (400)
+[2021.04.06-01.33.01:291][689]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2021.04.06-01.33.01:291][689]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2021.04.06-01.33.01:291][689]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2021.04.06-01.33.01:292][689]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (392)
+[2021.04.06-01.33.01:292][689]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (390)
+[2021.04.06-01.33.01:294][689]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2021.04.06-01.33.01:295][689]LogModuleManager: Shutting down and abandoning module GitSourceControl (386)
+[2021.04.06-01.33.01:296][689]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2021.04.06-01.33.01:297][689]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2021.04.06-01.33.01:297][689]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (380)
+[2021.04.06-01.33.01:297][689]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (378)
+[2021.04.06-01.33.01:297][689]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2021.04.06-01.33.01:297][689]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (374)
+[2021.04.06-01.33.01:297][689]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (372)
+[2021.04.06-01.33.01:297][689]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (370)
+[2021.04.06-01.33.01:297][689]LogModuleManager: Shutting down and abandoning module Paper2DEditor (368)
+[2021.04.06-01.33.01:298][689]LogModuleManager: Shutting down and abandoning module SoundFields (366)
+[2021.04.06-01.33.01:298][689]LogModuleManager: Shutting down and abandoning module SignificanceManager (364)
+[2021.04.06-01.33.01:298][689]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (362)
+[2021.04.06-01.33.01:298][689]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (360)
+[2021.04.06-01.33.01:298][689]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (356)
+[2021.04.06-01.33.01:298][689]LogModuleManager: Shutting down and abandoning module ActorSequence (354)
+[2021.04.06-01.33.01:298][689]LogModuleManager: Shutting down and abandoning module UdpMessaging (352)
+[2021.04.06-01.33.01:399][689]LogModuleManager: Shutting down and abandoning module TcpMessaging (350)
+[2021.04.06-01.33.01:501][689]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (348)
+[2021.04.06-01.33.01:501][689]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (346)
+[2021.04.06-01.33.01:501][689]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (344)
+[2021.04.06-01.33.01:501][689]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (342)
+[2021.04.06-01.33.01:501][689]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (340)
+[2021.04.06-01.33.01:501][689]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.04.06-01.33.01:501][689]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (338)
+[2021.04.06-01.33.01:502][689]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (336)
+[2021.04.06-01.33.01:502][689]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (334)
+[2021.04.06-01.33.01:502][689]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (332)
+[2021.04.06-01.33.01:502][689]LogModuleManager: Shutting down and abandoning module MagicLeapController (330)
+[2021.04.06-01.33.01:503][689]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.04.06-01.33.01:503][689]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (328)
+[2021.04.06-01.33.01:503][689]LogModuleManager: Shutting down and abandoning module MagicLeapAR (326)
+[2021.04.06-01.33.01:503][689]LogModuleManager: Shutting down and abandoning module AugmentedReality (325)
+[2021.04.06-01.33.01:503][689]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (322)
+[2021.04.06-01.33.01:503][689]LogModuleManager: Shutting down and abandoning module Niagara (320)
+[2021.04.06-01.33.01:503][689]LogModuleManager: Shutting down and abandoning module SignalProcessing (319)
+[2021.04.06-01.33.01:503][689]LogModuleManager: Shutting down and abandoning module NiagaraEditor (317)
+[2021.04.06-01.33.01:506][689]LogModuleManager: Shutting down and abandoning module NiagaraCore (314)
+[2021.04.06-01.33.01:506][689]LogModuleManager: Shutting down and abandoning module FMODStudio (312)
+[2021.04.06-01.33.01:743][689]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2021.04.06-01.33.01:743][689]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2021.04.06-01.33.01:743][689]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2021.04.06-01.33.01:743][689]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2021.04.06-01.33.01:743][689]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2021.04.06-01.33.01:745][689]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2021.04.06-01.33.01:749][689]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2021.04.06-01.33.01:750][689]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2021.04.06-01.33.01:750][689]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2021.04.06-01.33.01:750][689]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2021.04.06-01.33.01:751][689]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2021.04.06-01.33.01:751][689]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2021.04.06-01.33.01:752][689]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2021.04.06-01.33.01:752][689]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2021.04.06-01.33.01:752][689]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2021.04.06-01.33.01:752][689]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2021.04.06-01.33.01:754][689]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2021.04.06-01.33.01:754][689]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2021.04.06-01.33.01:754][689]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2021.04.06-01.33.01:754][689]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2021.04.06-01.33.01:754][689]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2021.04.06-01.33.01:755][689]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2021.04.06-01.33.01:755][689]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2021.04.06-01.33.01:755][689]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2021.04.06-01.33.01:755][689]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2021.04.06-01.33.01:755][689]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2021.04.06-01.33.01:757][689]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2021.04.06-01.33.01:757][689]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2021.04.06-01.33.01:758][689]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2021.04.06-01.33.01:759][689]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2021.04.06-01.33.01:760][689]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2021.04.06-01.33.01:760][689]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2021.04.06-01.33.01:760][689]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2021.04.06-01.33.01:760][689]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2021.04.06-01.33.01:763][689]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2021.04.06-01.33.01:770][689]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2021.04.06-01.33.01:770][689]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2021.04.06-01.33.01:773][689]LogModuleManager: Shutting down and abandoning module Core (216)
+[2021.04.06-01.33.01:774][689]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2021.04.06-01.33.01:774][689]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2021.04.06-01.33.01:774][689]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2021.04.06-01.33.01:775][689]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2021.04.06-01.33.01:778][689]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2021.04.06-01.33.01:778][689]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2021.04.06-01.33.01:779][689]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2021.04.06-01.33.01:779][689]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2021.04.06-01.33.01:780][689]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2021.04.06-01.33.01:780][689]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2021.04.06-01.33.01:781][689]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2021.04.06-01.33.01:781][689]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2021.04.06-01.33.01:782][689]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2021.04.06-01.33.01:782][689]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2021.04.06-01.33.01:783][689]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2021.04.06-01.33.01:783][689]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2021.04.06-01.33.01:783][689]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2021.04.06-01.33.01:783][689]LogXGEController: Cleaning working directory: C:/Users/arjun/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.06-01.33.01:783][689]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2021.04.06-01.33.01:784][689]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2021.04.06-01.33.01:784][689]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2021.04.06-01.33.01:784][689]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2021.04.06-01.33.01:785][689]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2021.04.06-01.33.01:785][689]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2021.04.06-01.33.01:786][689]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2021.04.06-01.33.01:786][689]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2021.04.06-01.33.01:786][689]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2021.04.06-01.33.01:787][689]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2021.04.06-01.33.01:787][689]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2021.04.06-01.33.01:787][689]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2021.04.06-01.33.01:787][689]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2021.04.06-01.33.01:787][689]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2021.04.06-01.33.01:787][689]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2021.04.06-01.33.01:787][689]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2021.04.06-01.33.01:788][689]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2021.04.06-01.33.01:788][689]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2021.04.06-01.33.01:788][689]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2021.04.06-01.33.01:788][689]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2021.04.06-01.33.01:788][689]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2021.04.06-01.33.01:801][689]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2021.04.06-01.33.01:808][689]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2021.04.06-01.33.01:809][689]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2021.04.06-01.33.01:809][689]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2021.04.06-01.33.01:809][689]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2021.04.06-01.33.01:809][689]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2021.04.06-01.33.01:809][689]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2021.04.06-01.33.01:810][689]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2021.04.06-01.33.01:810][689]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2021.04.06-01.33.01:810][689]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2021.04.06-01.33.01:814][689]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2021.04.06-01.33.01:834][689]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2021.04.06-01.33.01:834][689]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2021.04.06-01.33.01:834][689]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2021.04.06-01.33.01:834][689]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2021.04.06-01.33.01:835][689]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2021.04.06-01.33.01:835][689]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2021.04.06-01.33.01:836][689]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2021.04.06-01.33.01:836][689]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2021.04.06-01.33.01:836][689]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2021.04.06-01.33.01:836][689]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2021.04.06-01.33.01:837][689]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2021.04.06-01.33.01:837][689]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2021.04.06-01.33.01:838][689]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2021.04.06-01.33.01:838][689]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2021.04.06-01.33.01:838][689]LogHMD: Freeing OpenVRDLLHandle.
+[2021.04.06-01.33.01:838][689]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.04.06-01.33.01:838][689]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.04.06-01.33.01:838][689]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.04.06-01.33.01:838][689]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.04.06-01.33.01:838][689]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.04.06-01.33.01:840][689]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.04.06-01.33.01:841][689]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.04.06-01.33.01:851][689]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.04.06-01.33.01:851][689]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.04.06-01.33.01:851][689]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B916F49CC-4F8F-92FB-63C6-A392C5B2D282%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=d050f71a4fc2e3cb29f46186cdbb1f5f%7C0b3be5f0ea4b4a02a47e6593422f4d5e%7C0f9c1406-631e-4a1f-af48-87c34463f9db&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.04.06-01.33.01:858][689]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.04.06-01.33.01:859][689]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.04.06-01.33.01:863][689]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.04.06-01.33.01:863][689]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.04.06-01.33.01:863][689]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.04.06-01.33.01:864][689]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.04.06-01.33.01:864][689]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.04.06-01.33.01:864][689]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.04.06-01.33.01:864][689]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.04.06-01.33.01:864][689]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.04.06-01.33.01:865][689]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.04.06-01.33.01:865][689]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.04.06-01.33.01:865][689]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.04.06-01.33.01:865][689]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.04.06-01.33.01:867][689]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.04.06-01.33.01:867][689]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.04.06-01.33.01:869][689]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.04.06-01.33.01:870][689]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.04.06-01.33.01:870][689]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.04.06-01.33.01:870][689]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.04.06-01.33.01:872][689]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.04.06-01.33.01:872][689]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.04.06-01.33.01:872][689]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.04.06-01.33.01:873][689]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.04.06-01.33.01:873][689]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.04.06-01.33.01:873][689]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.04.06-01.33.01:873][689]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.04.06-01.33.01:874][689]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.04.06-01.33.01:874][689]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.04.06-01.33.01:874][689]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.04.06-01.33.01:874][689]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.04.06-01.33.01:874][689]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.04.06-01.33.01:875][689]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.04.06-01.33.01:877][689]LogD3D11RHI: Shutdown
+[2021.04.06-01.33.01:877][689]LogD3D11RHI: CleanupD3DDevice
+[2021.04.06-01.33.01:907][689]LogExit: Exiting.
+[2021.04.06-01.33.01:921][689]Log file closed, 04/06/21 11:33:01
