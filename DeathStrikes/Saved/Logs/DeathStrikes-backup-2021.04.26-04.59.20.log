@@ -1,0 +1,1271 @@
+﻿Log file open, 04/26/21 14:46:29
+LogInit: Display: Running engine for game: DeathStrikes
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.466495
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.26-04.46.32:226][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.26-04.46.32:226][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.26-04.46.32:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.26-04.46.32:227][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.26-04.46.32:228][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.26-04.46.32:229][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.26-04.46.32:229][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.26-04.46.32:229][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.26-04.46.32:229][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.26-04.46.32:229][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.26-04.46.32:229][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.26-04.46.32:229][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.26-04.46.32:266][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:266][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.26-04.46.32:266][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.26-04.46.32:266][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:266][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.26-04.46.32:266][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:266][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.26-04.46.32:266][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.26-04.46.32:266][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.26-04.46.32:266][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.26-04.46.32:267][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:267][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.26-04.46.32:268][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.26-04.46.32:269][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.26-04.46.32:270][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.26-04.46.32:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.26-04.46.32:272][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:272][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.26-04.46.32:272][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.26-04.46.32:272][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:272][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.26-04.46.32:272][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.26-04.46.32:272][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.26-04.46.32:272][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.26-04.46.32:272][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.26-04.46.32:273][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.26-04.46.32:273][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.26-04.46.32:281][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.26-04.46.32:281][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.26-04.46.32:293][  0]LogHAL: Display: Platform has ~ 32 GB [34270777344 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.26-04.46.32:294][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.26-04.46.32:294][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:294][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.26-04.46.32:295][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.26-04.46.32:296][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.26-04.46.32:297][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.26-04.46.32:298][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.26-04.46.32:299][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.26-04.46.32:300][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-04.46.32:300][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.26-04.46.32:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.26-04.46.32:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.26-04.46.32:301][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.26-04.46.32:301][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.26-04.46.32:301][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.26-04.46.32:301][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.26-04.46.32:301][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.26-04.46.32:310][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.26-04.46.32:310][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.26-04.46.32:310][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.26-04.46.32:310][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2021.04.26-04.46.32:311][  0]LogInit: Computer: SYD-R101-PC13
+[2021.04.26-04.46.32:311][  0]LogInit: User: jfcraig
+[2021.04.26-04.46.32:311][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.26-04.46.32:311][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.26-04.46.32:312][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.04.26-04.46.32:312][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.26-04.46.32:312][  0]LogMemory: Process Physical Memory: 116.34 MB used, 116.35 MB peak
+[2021.04.26-04.46.32:312][  0]LogMemory: Process Virtual Memory: 104.23 MB used, 104.23 MB peak
+[2021.04.26-04.46.32:312][  0]LogMemory: Physical Memory: 5966.64 MB used,  26716.52 MB free, 32683.16 MB total
+[2021.04.26-04.46.32:312][  0]LogMemory: Virtual Memory: 5151.96 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2021.04.26-04.46.32:348][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.26-04.46.32:936][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.26-04.46.32:947][  0]LogInit: Using OS detected language (en-US).
+[2021.04.26-04.46.32:947][  0]LogInit: Using OS detected locale (en-AU).
+[2021.04.26-04.46.32:997][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.26-04.46.33:608][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.26-04.46.33:950][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.26-04.46.33:950][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.26-04.46.34:425][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.26-04.46.34:425][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.26-04.46.34:425][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.26-04.46.34:425][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.26-04.46.34:589][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2021.04.26-04.46.34:589][  0]LogD3D11RHI:       4053/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.26-04.46.34:592][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.26-04.46.34:592][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.26-04.46.34:592][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.26-04.46.34:601][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.26-04.46.34:601][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.26-04.46.34:601][  0]LogWindows: EnumDisplayDevices:
+[2021.04.26-04.46.34:601][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2021.04.26-04.46.34:602][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.04.26-04.46.34:602][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.04.26-04.46.34:603][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.04.26-04.46.34:603][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.04.26-04.46.34:603][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2021.04.26-04.46.34:603][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2021.04.26-04.46.34:603][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2021.04.26-04.46.34:603][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2021.04.26-04.46.34:649][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.26-04.46.34:650][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.26-04.46.34:650][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.26-04.46.34:920][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.26-04.46.36:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.26-04.46.36:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.26-04.46.36:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.26-04.46.36:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.26-04.46.36:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.26-04.46.36:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.26-04.46.36:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.26-04.46.36:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.26-04.46.36:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.26-04.46.36:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.26-04.46.36:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.26-04.46.36:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.26-04.46.36:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.26-04.46.36:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.26-04.46.36:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.26-04.46.36:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.26-04.46.36:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.26-04.46.36:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.26-04.46.36:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.26-04.46.36:631][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.26-04.46.36:757][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.26-04.46.37:295][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Intermediate/Shaders/WorkingDirectory/13404/).
+[2021.04.26-04.46.37:295][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TEMP/AppData/Local/Temp/UnrealShaderWorkingDir/08BBBE5E4331795C789CC68CC3B11FEB/'.
+[2021.04.26-04.46.37:296][  0]LogXGEController: Cleaning working directory: C:/Users/TEMP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.26-04.46.37:297][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2021.04.26-04.46.39:293][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.26-04.46.39:293][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2021.04.26-04.46.39:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.26-04.46.39:293][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.26-04.46.39:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.26-04.46.39:293][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.26-04.46.39:320][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.26-04.46.39:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.26-04.46.39:320][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.26-04.46.39:322][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TEMP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.26-04.46.39:322][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.26-04.46.39:322][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.26-04.46.39:525][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.26-04.46.39:602][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.26-04.46.40:047][  0]LogAssetRegistry: FAssetRegistry took 0.0187 seconds to start up
+[2021.04.26-04.46.43:719][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.26-04.46.45:516][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.26-04.46.45:516][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.26-04.46.45:516][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.26-04.46.45:516][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.26-04.46.45:518][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.26-04.46.46:096][  0]LogNetVersion: DeathStrikes 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3077566668)
+[2021.04.26-04.46.53:668][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000176CDC9A980), frame # 0
+[2021.04.26-04.46.53:668][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000176CD922AC0), frame # 0
+[2021.04.26-04.46.53:684][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000176CD96DC00), frame # 0
+[2021.04.26-04.46.54:302][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.082933 seconds
+[2021.04.26-04.46.54:321][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.04.26-04.46.54:321][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.04.26-04.46.54:321][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.26-04.47.02:421][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.26-04.47.02:630][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.26-04.47.04:158][  0]SourceControl: Source control is disabled
+[2021.04.26-04.47.04:168][  0]SourceControl: Source control is disabled
+[2021.04.26-04.47.04:448][  0]SourceControl: Source control is disabled
+[2021.04.26-04.47.04:509][  0]SourceControl: Source control is disabled
+[2021.04.26-04.47.04:647][  0]SourceControl: Source control is disabled
+[2021.04.26-04.47.08:921][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.26-04.47.09:228][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.26-04.47.09:229][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.26-04.47.09:896][  0]LogOcInput: OculusInput pre-init called
+[2021.04.26-04.47.10:109][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.26-04.47.10:109][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.26-04.47.12:140][  0]LogEngine: Initializing Engine...
+[2021.04.26-04.47.12:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.26-04.47.12:172][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.26-04.47.12:226][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.019 s
+[2021.04.26-04.47.13:274][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.26-04.47.13:854][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.26-04.47.13:854][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000176D8764600), frame # 0
+[2021.04.26-04.47.13:855][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000176D874E980), frame # 0
+[2021.04.26-04.47.14:021][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.26-04.47.14:021][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.26-04.47.14:021][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.26-04.47.14:021][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.26-04.47.14:021][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.26-04.47.14:021][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.26-04.47.14:021][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.26-04.47.14:021][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.26-04.47.14:054][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.26-04.47.14:054][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.26-04.47.14:281][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.26-04.47.14:281][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.26-04.47.14:403][  0]LogAudioMixer: Display: Using Audio Device U28E850 (2- NVIDIA High Definition Audio)
+[2021.04.26-04.47.14:415][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.26-04.47.14:418][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.26-04.47.14:418][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.26-04.47.14:424][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.26-04.47.14:425][  0]LogInit: FAudioDevice initialized.
+[2021.04.26-04.47.14:437][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.26-04.47.14:515][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/TEMP/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.26-04.47.14:517][  0]LogInit: Texture streaming: Enabled
+[2021.04.26-04.47.14:671][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.26-04.47.14:671][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.26-04.47.14:687][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.26-04.47.15:612][  0]LogInit: Transaction tracking system initialized
+[2021.04.26-04.47.15:801][  0]BlueprintLog: New page: Editor Load
+[2021.04.26-04.47.16:686][  0]LocalizationService: Localization service is disabled
+[2021.04.26-04.47.18:167][  0]LogFileCache: Scanning file cache for directory 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/' took 0.02s
+[2021.04.26-04.47.18:167][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.26-04.47.18:168][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.26-04.47.20:265][  0]SourceControl: Source control is disabled
+[2021.04.26-04.47.20:270][  0]LogUnrealEdMisc: Loading editor; pre map load, took 61.719
+[2021.04.26-04.47.20:288][  0]Cmd: MAP LOAD FILE="../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.26-04.47.20:295][  0]LightingResults: New page: Lighting Build
+[2021.04.26-04.47.20:362][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-04.47.20:375][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-04.47.20:384][  0]MapCheck: New page: Map Check
+[2021.04.26-04.47.20:384][  0]LightingResults: New page: Lighting Build
+[2021.04.26-04.47.20:548][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000176D8764600), frame # 0
+[2021.04.26-04.47.20:548][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000176D874E980), frame # 0
+[2021.04.26-04.47.20:549][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.26-04.47.20:993][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.20:993][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Knight.Knight_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.20:994][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.20:994][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Knight.Knight_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:018][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.21:018][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C Referenced by CharacterMesh0
+[2021.04.26-04.47.21:018][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.21:018][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C Referenced by CharacterMesh0
+[2021.04.26-04.47.21:019][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:019][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone.Greystone Referenced by CharacterMesh0
+[2021.04.26-04.47.21:019][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:019][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone.Greystone Referenced by CharacterMesh0
+[2021.04.26-04.47.21:099][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.21:099][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:099][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.21:099][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:099][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.21:099][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:099][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.21:099][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:099][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:099][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:100][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:100][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:100][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:100][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone.Greystone Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:100][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/bp_PlayerHealth.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:100][  0]LoadErrors: Failed to load /Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone.Greystone Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:109][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.21:109][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Knight.Knight_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:109][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint': Can't find file.
+[2021.04.26-04.47.21:109][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Knight.Knight_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:110][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:110][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Knight.Knight_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:110][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:110][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Knight.Knight_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:110][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:110][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Knight.Knight_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:110][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset' failed to load '/Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone': Can't find file.
+[2021.04.26-04.47.21:110][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Knight.Knight_C Referenced by EnemyHealthBar_GEN_VARIABLE
+[2021.04.26-04.47.21:762][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.21:762][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.21:763][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.21:764][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.21:764][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.21:764][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.21:764][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.21:764][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.21:764][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.21:765][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.21:765][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.21:765][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.21:765][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.21:765][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.21:765][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.24:075][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.26-04.47.24:075][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.26-04.47.24:075][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.26-04.47.24:075][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.26-04.47.24:076][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.26-04.47.24:076][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.26-04.47.24:076][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.26-04.47.24:076][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.26-04.47.24:076][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.26-04.47.24:076][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.26-04.47.24:076][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.26-04.47.24:076][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.26-04.47.24:100][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.26-04.47.24:100][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.26-04.47.24:100][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.26-04.47.24:100][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.26-04.47.24:100][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.26-04.47.24:101][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.26-04.47.24:101][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.26-04.47.24:101][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.26-04.47.24:101][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.26-04.47.24:101][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.26-04.47.24:101][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.26-04.47.24:101][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.26-04.47.25:431][  0]LogTexture: Display: Building textures: DiffuseTextureTest (AutoDXT, 1024X1024)
+[2021.04.26-04.47.25:431][  0]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_BaseColor (AutoDXT, 2048X2048)
+[2021.04.26-04.47.25:431][  0]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_Normal (BC5, 2048X2048)
+[2021.04.26-04.47.25:431][  0]LogTexture: Display: Building textures: Corpse_body_Complete_10011_BaseColor (AutoDXT, 2048X2048)
+[2021.04.26-04.47.25:431][  0]LogTexture: Display: Building textures: Corpse_body_Complete_10011_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.04.26-04.47.25:431][  0]LogTexture: Display: Building textures: Corpse_body_Complete_10011_Normal (BC5, 2048X2048)
+[2021.04.26-04.47.25:431][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.26-04.47.25:431][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_A.T_CandleStick_Iron_A Referenced by M_CandleStick_Iron_Inst
+[2021.04.26-04.47.25:431][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_A': Can't find file.
+[2021.04.26-04.47.25:431][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_A.T_CandleStick_Iron_A Referenced by M_CandleStick_Iron_Inst
+[2021.04.26-04.47.25:431][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.26-04.47.25:431][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_C.T_CandleStick_Iron_C Referenced by M_CandleStick_Iron_Inst
+[2021.04.26-04.47.25:431][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_C': Can't find file.
+[2021.04.26-04.47.25:431][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_C.T_CandleStick_Iron_C Referenced by M_CandleStick_Iron_Inst
+[2021.04.26-04.47.25:432][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.26-04.47.25:432][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_N.T_CandleStick_Iron_N Referenced by M_CandleStick_Iron_Inst
+[2021.04.26-04.47.25:432][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_CandleStick_Iron_N': Can't find file.
+[2021.04.26-04.47.25:432][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_CandleStick_Iron_N.T_CandleStick_Iron_N Referenced by M_CandleStick_Iron_Inst
+[2021.04.26-04.47.25:434][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.26-04.47.25:434][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_A.T_Candle_Holder_A Referenced by M_Candle_Holder_Inst
+[2021.04.26-04.47.25:434][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_A': Can't find file.
+[2021.04.26-04.47.25:434][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_A.T_Candle_Holder_A Referenced by M_Candle_Holder_Inst
+[2021.04.26-04.47.25:435][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.26-04.47.25:435][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_C.T_Candle_Holder_C Referenced by M_Candle_Holder_Inst
+[2021.04.26-04.47.25:435][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_C': Can't find file.
+[2021.04.26-04.47.25:435][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_C.T_Candle_Holder_C Referenced by M_Candle_Holder_Inst
+[2021.04.26-04.47.25:435][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.26-04.47.25:435][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_N.T_Candle_Holder_N Referenced by M_Candle_Holder_Inst
+[2021.04.26-04.47.25:435][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candle_Holder_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candle_Holder_N': Can't find file.
+[2021.04.26-04.47.25:435][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candle_Holder_N.T_Candle_Holder_N Referenced by M_Candle_Holder_Inst
+[2021.04.26-04.47.25:720][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2021.04.26-04.47.25:826][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.25:826][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_A.T_Candles_A Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2021.04.26-04.47.25:826][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.25:826][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_A.T_Candles_A Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2021.04.26-04.47.25:826][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.25:826][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_N.T_Candles_N Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2021.04.26-04.47.25:827][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.25:827][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_N.T_Candles_N Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2021.04.26-04.47.25:827][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.25:827][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_C.T_Candles_C Referenced by MaterialExpressionTextureSampleParameter2D_5
+[2021.04.26-04.47.25:827][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Master.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.25:827][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_C.T_Candles_C Referenced by MaterialExpressionTextureSampleParameter2D_5
+[2021.04.26-04.47.25:827][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.25:827][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_A.T_Candles_A Referenced by M_Candles_Inst
+[2021.04.26-04.47.25:828][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_A': Can't find file.
+[2021.04.26-04.47.25:828][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_A.T_Candles_A Referenced by M_Candles_Inst
+[2021.04.26-04.47.25:828][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.25:828][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_C.T_Candles_C Referenced by M_Candles_Inst
+[2021.04.26-04.47.25:828][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_C': Can't find file.
+[2021.04.26-04.47.25:828][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_C.T_Candles_C Referenced by M_Candles_Inst
+[2021.04.26-04.47.25:828][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.25:829][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_N.T_Candles_N Referenced by M_Candles_Inst
+[2021.04.26-04.47.25:829][  0]LogLinker: Warning: While loading '../../../../JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset' failed to load '/Game/MedievalDungeon/Textures/T_Candles_N': Can't find file.
+[2021.04.26-04.47.25:829][  0]LoadErrors: Failed to load /Game/MedievalDungeon/Textures/T_Candles_N.T_Candles_N Referenced by M_Candles_Inst
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: josh_thing_2 (AutoDXT, 1000X1000)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Gems_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Gems_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Gems_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Noise_01a_M (AutoDXT, 1024X1024)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Fire_01a_ALB (AutoDXT, 1024X1024)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Torch_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Torch_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Torch_01_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Fill_01a_RMA (AutoDXT, 128X128)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Fill_01a_NRM (BC5, 128X128)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Fill_01a_H (G8, 128X128)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Fill_01a_ALB (AutoDXT, 128X128)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Coal_01a_RMA (AutoDXT, 1024X1024)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Coal_01a_NRM (BC5, 1024X1024)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Coal_01a_H (G8, 1024X1024)
+[2021.04.26-04.47.29:402][  0]LogTexture: Display: Building textures: TX_Coal_01a_EMM (AutoDXT, 1024X1024)
+[2021.04.26-04.47.29:402][  0]LogMaterial: Display: Missing cached shader map for material Character_Substance_Layers_Material, compiling. 
+[2021.04.26-04.47.29:874][  0]LogTexture: Display: Building textures: TX_Coal_01a_ALB (AutoDXT, 1024X1024)
+[2021.04.26-04.47.29:874][  0]LogTexture: Display: Building textures: TX_Coins_01a_H (BGRA8, 2048X2048)
+[2021.04.26-04.47.29:874][  0]LogTexture: Display: Building textures: TX_SandMask_01a_M (AutoDXT, 512X512)
+[2021.04.26-04.47.29:874][  0]LogTexture: Display: Building textures: Corpse_Sword_Body_Low_green_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.04.26-04.47.34:961][  0]LogTexture: Display: Building textures: TX_SandMaterial_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.47.34:961][  0]LogTexture: Display: Building textures: TX_SandMaterial_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.47.34:961][  0]LogTexture: Display: Building textures: TX_SandMaterial_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.47.34:961][  0]LogTexture: Display: Building textures: Hooker_M (AutoDXT, 2048X2048)
+[2021.04.26-04.47.34:961][  0]LogTexture: Display: Building textures: Large_N (BC5, 2048X2048)
+[2021.04.26-04.47.34:961][  0]LogTexture: Display: Building textures: Large_M (AutoDXT, 2048X2048)
+[2021.04.26-04.47.34:963][  0]LogMaterial: Display: Missing cached shader map for material Character_Substance_Layers_Material, compiling. 
+[2021.04.26-04.47.35:024][  0]LogSkeletalMesh: Building Skeletal Mesh Charger...
+[2021.04.26-04.47.35:084][  0]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/JC_TEMP/CityofBrass_Enemies/Meshes/Enemy/Charger/Charger.Charger
+[2021.04.26-04.47.35:088][  0]LogMaterial: Display: Missing cached shader map for material M_TargetSelection, compiling. 
+[2021.04.26-04.47.35:525][  0]LogTexture: Display: Building textures: Large_D (AutoDXT, 2048X2048)
+[2021.04.26-04.47.35:529][  0]LogTexture: Display: Building textures: T_CandleFlame (AutoDXT, 512X512)
+[2021.04.26-04.47.35:582][  0]LogMaterial: Display: Missing cached shader map for material M_CandleFlame, compiling. 
+[2021.04.26-04.47.35:611][  0]LogMaterial: Display: Missing cached shader map for material MM_Fire_01a, compiling. 
+[2021.04.26-04.47.35:803][  0]LogStaticMesh: Building static mesh SM_Candle...
+[2021.04.26-04.47.35:825][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Candle.SM_Candle
+[2021.04.26-04.47.35:834][  0]LogStaticMesh: Building static mesh SM_Coal_01a...
+[2021.04.26-04.47.35:844][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AncientTreasures/Meshes/SM_Coal_01a.SM_Coal_01a
+[2021.04.26-04.47.35:889][  0]LogStaticMesh: Building static mesh SM_Torch_01a...
+[2021.04.26-04.47.35:934][  0]LogStaticMesh: Built static mesh [0.05s] /Game/AncientTreasures/Meshes/SM_Torch_01a.SM_Torch_01a
+[2021.04.26-04.47.36:005][  0]LogStaticMesh: Building static mesh SM_Torch...
+[2021.04.26-04.47.36:072][  0]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Props/SM_Torch.SM_Torch
+[2021.04.26-04.47.36:086][  0]LogStaticMesh: Building static mesh SM_Gems_01b...
+[2021.04.26-04.47.36:088][  0]LogStaticMesh: Built static mesh [0.00s] /Game/AncientTreasures/Meshes/SM_Gems_01b.SM_Gems_01b
+[2021.04.26-04.47.36:535][  0]LogTexture: Display: Building textures: Hooker_N (BC5, 2048X2048)
+[2021.04.26-04.47.36:535][  0]LogStaticMesh: Building static mesh SM_Floor_8...
+[2021.04.26-04.47.36:999][  0]LogTexture: Display: Building textures: Hooker_ygui (AutoDXT, 2048X2048)
+[2021.04.26-04.47.36:999][  0]LogStaticMesh: Built static mesh [0.46s] /Game/ProjectAltar/Meshes/SM_Floor_8.SM_Floor_8
+[2021.04.26-04.47.37:259][  0]LogStaticMesh: Building static mesh SM_HumanHead_1...
+[2021.04.26-04.47.37:378][  0]LogStaticMesh: Built static mesh [0.12s] /Game/ProjectAltar/Meshes/SM_HumanHead_1.SM_HumanHead_1
+[2021.04.26-04.47.37:570][  0]LogTexture: Display: Building textures: T_HumanHand_1_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.47.37:570][  0]LogStaticMesh: Building static mesh SM_HumanRib...
+[2021.04.26-04.47.37:804][  0]LogStaticMesh: Built static mesh [0.24s] /Game/ProjectAltar/Meshes/SM_HumanRib.SM_HumanRib
+[2021.04.26-04.47.37:878][  0]LogStaticMesh: Building static mesh SM_Torch_1...
+[2021.04.26-04.47.37:910][  0]LogStaticMesh: Built static mesh [0.03s] /Game/ProjectAltar/Meshes/SM_Torch_1.SM_Torch_1
+[2021.04.26-04.47.37:928][  0]LogStaticMesh: Building static mesh SM_Alter...
+[2021.04.26-04.47.37:934][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter
+[2021.04.26-04.47.38:085][  0]LogStaticMesh: Building static mesh SM_Ball_And_Chain...
+[2021.04.26-04.47.38:348][  0]LogStaticMesh: Built static mesh [0.26s] /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2021.04.26-04.47.38:410][  0]LogStaticMesh: Building static mesh SM_Bangle_01i...
+[2021.04.26-04.47.38:417][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AncientTreasures/Meshes/SM_Bangle_01i.SM_Bangle_01i
+[2021.04.26-04.47.38:439][  0]LogStaticMesh: Building static mesh SM_Bangle_02a...
+[2021.04.26-04.47.38:481][  0]LogStaticMesh: Built static mesh [0.04s] /Game/AncientTreasures/Meshes/SM_Bangle_02a.SM_Bangle_02a
+[2021.04.26-04.47.38:529][  0]LogStaticMesh: Building static mesh SM_Bones_FootLeft...
+[2021.04.26-04.47.38:552][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2021.04.26-04.47.38:586][  0]LogStaticMesh: Building static mesh SM_Bones_FootRight...
+[2021.04.26-04.47.38:610][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight.SM_Bones_FootRight
+[2021.04.26-04.47.38:679][  0]LogStaticMesh: Building static mesh SM_Bones_Hips...
+[2021.04.26-04.47.38:725][  0]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Hips.SM_Bones_Hips
+[2021.04.26-04.47.38:742][  0]LogStaticMesh: Building static mesh SM_Bones_HumerusLeft...
+[2021.04.26-04.47.38:754][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HumerusLeft.SM_Bones_HumerusLeft
+[2021.04.26-04.47.38:765][  0]LogStaticMesh: Building static mesh SM_Bones_Jaw...
+[2021.04.26-04.47.38:774][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw
+[2021.04.26-04.47.38:807][  0]LogStaticMesh: Building static mesh SM_Bones_Neck...
+[2021.04.26-04.47.38:823][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Neck.SM_Bones_Neck
+[2021.04.26-04.47.38:829][  0]LogStaticMesh: Building static mesh SM_Bones_PatellaLeft...
+[2021.04.26-04.47.38:832][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_PatellaLeft.SM_Bones_PatellaLeft
+[2021.04.26-04.47.38:835][  0]LogStaticMesh: Building static mesh SM_Bones_PatellaRight...
+[2021.04.26-04.47.38:838][  0]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_PatellaRight.SM_Bones_PatellaRight
+[2021.04.26-04.47.39:069][  0]LogStaticMesh: Building static mesh SM_Bones_RibCage...
+[2021.04.26-04.47.39:319][  0]LogTexture: Display: Building textures: T_HumanHand_1_N (BC5, 2048X2048)
+[2021.04.26-04.47.39:319][  0]LogStaticMesh: Built static mesh [0.25s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RibCage.SM_Bones_RibCage
+[2021.04.26-04.47.39:376][  0]LogStaticMesh: Building static mesh SM_Bones_ScapulaLeft...
+[2021.04.26-04.47.39:385][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ScapulaLeft.SM_Bones_ScapulaLeft
+[2021.04.26-04.47.39:428][  0]LogStaticMesh: Building static mesh SM_Bones_Skull...
+[2021.04.26-04.47.39:464][  0]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Skull.SM_Bones_Skull
+[2021.04.26-04.47.39:488][  0]LogStaticMesh: Building static mesh SM_Bones_TibiaLeft...
+[2021.04.26-04.47.39:501][  0]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_TibiaLeft.SM_Bones_TibiaLeft
+[2021.04.26-04.47.39:732][  0]LogStaticMesh: Building static mesh SM_Candle_Holder...
+[2021.04.26-04.47.40:015][  0]LogStaticMesh: Built static mesh [0.28s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2021.04.26-04.47.40:154][  0]LogStaticMesh: Building static mesh SM_CandleStick_Iron...
+[2021.04.26-04.47.40:212][  0]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Props/SM_CandleStick_Iron.SM_CandleStick_Iron
+[2021.04.26-04.47.40:878][  0]LogTexture: Display: Building textures: T_HumanHand_1_B (AutoDXT, 2048X2048)
+[2021.04.26-04.47.40:878][  0]LogStaticMesh: Building static mesh SM_Chandelier...
+[2021.04.26-04.47.42:402][  0]LogTexture: Display: Building textures: T_Skeleton_Dirty_N (BC5, 2048X2048)
+[2021.04.26-04.47.42:402][  0]LogTexture: Display: Building textures: T_Skeleton_Dirty_C (AutoDXT, 2048X2048)
+[2021.04.26-04.47.42:402][  0]LogTexture: Display: Building textures: T_Skeleton_Dirty_A (AutoDXT, 2048X2048)
+[2021.04.26-04.47.42:402][  0]LogStaticMesh: Built static mesh [1.52s] /Game/MedievalDungeon/Meshes/Props/SM_Chandelier.SM_Chandelier
+[2021.04.26-04.47.42:555][  0]LogTexture: Display: Building textures: T_Skeleton_Clean_N (BC5, 2048X2048)
+[2021.04.26-04.47.42:556][  0]LogStaticMesh: Building static mesh SM_Chest_01b...
+[2021.04.26-04.47.42:639][  0]LogStaticMesh: Built static mesh [0.08s] /Game/AncientTreasures/Meshes/SM_Chest_01b.SM_Chest_01b
+[2021.04.26-04.47.42:691][  0]LogStaticMesh: Building static mesh SM_Chest_01c...
+[2021.04.26-04.47.42:771][  0]LogStaticMesh: Built static mesh [0.08s] /Game/AncientTreasures/Meshes/SM_Chest_01c.SM_Chest_01c
+[2021.04.26-04.47.42:813][  0]LogStaticMesh: Building static mesh SM_ClayPot_01...
+[2021.04.26-04.47.42:843][  0]LogStaticMesh: Built static mesh [0.03s] /Game/AncientTreasures/Meshes/SM_ClayPot_01.SM_ClayPot_01
+[2021.04.26-04.47.42:858][  0]LogStaticMesh: Building static mesh SM_ClayPot_02...
+[2021.04.26-04.47.42:889][  0]LogStaticMesh: Built static mesh [0.03s] /Game/AncientTreasures/Meshes/SM_ClayPot_02.SM_ClayPot_02
+[2021.04.26-04.47.42:914][  0]LogStaticMesh: Building static mesh SM_ClayPot_03a...
+[2021.04.26-04.47.42:925][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AncientTreasures/Meshes/SM_ClayPot_03a.SM_ClayPot_03a
+[2021.04.26-04.47.42:946][  0]LogStaticMesh: Building static mesh SM_ClayPot_03b...
+[2021.04.26-04.47.42:958][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AncientTreasures/Meshes/SM_ClayPot_03b.SM_ClayPot_03b
+[2021.04.26-04.47.42:963][  0]LogStaticMesh: Building static mesh SM_ClayPot_03c...
+[2021.04.26-04.47.42:971][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AncientTreasures/Meshes/SM_ClayPot_03c.SM_ClayPot_03c
+[2021.04.26-04.47.42:975][  0]LogStaticMesh: Building static mesh SM_ClayPot_03e...
+[2021.04.26-04.47.42:984][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AncientTreasures/Meshes/SM_ClayPot_03e.SM_ClayPot_03e
+[2021.04.26-04.47.42:986][  0]LogStaticMesh: Building static mesh SM_ClayPot_03f...
+[2021.04.26-04.47.42:991][  0]LogStaticMesh: Built static mesh [0.00s] /Game/AncientTreasures/Meshes/SM_ClayPot_03f.SM_ClayPot_03f
+[2021.04.26-04.47.42:997][  0]LogStaticMesh: Building static mesh SM_ClayPot_03i...
+[2021.04.26-04.47.43:011][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AncientTreasures/Meshes/SM_ClayPot_03i.SM_ClayPot_03i
+[2021.04.26-04.47.43:016][  0]LogStaticMesh: Building static mesh SM_Coffin_No_Lid...
+[2021.04.26-04.47.43:033][  0]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2021.04.26-04.47.43:039][  0]LogStaticMesh: Building static mesh SM_Coin_02a...
+[2021.04.26-04.47.43:043][  0]LogStaticMesh: Built static mesh [0.00s] /Game/AncientTreasures/Meshes/SM_Coin_02a.SM_Coin_02a
+[2021.04.26-04.47.43:078][  0]LogStaticMesh: Building static mesh SM_Coin_Pile_01a...
+[2021.04.26-04.47.43:112][  0]LogStaticMesh: Built static mesh [0.03s] /Game/AncientTreasures/Meshes/SM_Coin_Pile_01a.SM_Coin_Pile_01a
+[2021.04.26-04.47.43:141][  0]LogStaticMesh: Building static mesh SM_Coin_Pile_01f...
+[2021.04.26-04.47.43:164][  0]LogStaticMesh: Built static mesh [0.02s] /Game/AncientTreasures/Meshes/SM_Coin_Pile_01f.SM_Coin_Pile_01f
+[2021.04.26-04.47.43:202][  0]LogStaticMesh: Building static mesh SM_CoinMaterial_01c...
+[2021.04.26-04.47.43:241][  0]LogStaticMesh: Built static mesh [0.04s] /Game/AncientTreasures/Meshes/SM_CoinMaterial_01c.SM_CoinMaterial_01c
+[2021.04.26-04.47.43:286][  0]LogStaticMesh: Building static mesh SM_Crown_01a...
+[2021.04.26-04.47.43:335][  0]LogStaticMesh: Built static mesh [0.05s] /Game/AncientTreasures/Meshes/SM_Crown_01a.SM_Crown_01a
+[2021.04.26-04.47.43:422][  0]LogStaticMesh: Building static mesh SM_Dagger_01b...
+[2021.04.26-04.47.43:433][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AncientTreasures/Meshes/SM_Dagger_01b.SM_Dagger_01b
+[2021.04.26-04.47.44:336][  0]LogTexture: Display: Building textures: T_Skeleton_Clean_C (AutoDXT, 2048X2048)
+[2021.04.26-04.47.44:336][  0]LogTexture: Display: Building textures: T_Skeleton_Clean_A (AutoDXT, 2048X2048)
+[2021.04.26-04.47.44:336][  0]LogStaticMesh: Building static mesh SM_Decor_Chains_A...
+[2021.04.26-04.47.45:155][  0]LogStaticMesh: Built static mesh [0.82s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A
+[2021.04.26-04.47.45:484][  0]LogStaticMesh: Building static mesh SM_Decor_Chains_B...
+[2021.04.26-04.47.45:630][  0]LogStaticMesh: Built static mesh [0.15s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2021.04.26-04.47.45:915][  0]LogStaticMesh: Building static mesh SM_Gargoyle_Statue...
+[2021.04.26-04.47.46:119][  0]LogStaticMesh: Built static mesh [0.20s] /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2021.04.26-04.47.46:387][  0]LogStaticMesh: Building static mesh SM_Gargoyle_Statue_On_Stand...
+[2021.04.26-04.47.46:620][  0]LogTexture: Display: Building textures: T_Statue_Hooded_A (AutoDXT, 2048X2048)
+[2021.04.26-04.47.46:620][  0]LogStaticMesh: Built static mesh [0.23s] /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2021.04.26-04.47.46:668][  0]LogTexture: Display: Building textures: T_Statue_Hooded_R (BGRA8, 2048X2048)
+[2021.04.26-04.47.46:668][  0]LogStaticMesh: Building static mesh SM_Gems_01a...
+[2021.04.26-04.47.46:672][  0]LogStaticMesh: Built static mesh [0.00s] /Game/AncientTreasures/Meshes/SM_Gems_01a.SM_Gems_01a
+[2021.04.26-04.47.46:675][  0]LogStaticMesh: Building static mesh SM_Gems_01c...
+[2021.04.26-04.47.46:678][  0]LogStaticMesh: Built static mesh [0.00s] /Game/AncientTreasures/Meshes/SM_Gems_01c.SM_Gems_01c
+[2021.04.26-04.47.46:681][  0]LogStaticMesh: Building static mesh SM_Gems_01d...
+[2021.04.26-04.47.46:684][  0]LogStaticMesh: Built static mesh [0.00s] /Game/AncientTreasures/Meshes/SM_Gems_01d.SM_Gems_01d
+[2021.04.26-04.47.46:743][  0]LogStaticMesh: Building static mesh SM_Gibbet_Cage...
+[2021.04.26-04.47.46:826][  0]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2021.04.26-04.47.46:908][  0]LogStaticMesh: Building static mesh SM_Gibbet_Cage_Open...
+[2021.04.26-04.47.46:992][  0]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2021.04.26-04.47.47:021][  0]LogStaticMesh: Building static mesh SM_GoldBar_01a...
+[2021.04.26-04.47.47:024][  0]LogStaticMesh: Built static mesh [0.00s] /Game/AncientTreasures/Meshes/SM_GoldBar_01a.SM_GoldBar_01a
+[2021.04.26-04.47.47:050][  0]LogStaticMesh: Building static mesh SM_Helmet_01a...
+[2021.04.26-04.47.47:108][  0]LogStaticMesh: Built static mesh [0.06s] /Game/AncientTreasures/Meshes/SM_Helmet_01a.SM_Helmet_01a
+[2021.04.26-04.47.47:199][  0]LogStaticMesh: Building static mesh SM_HumanHand...
+[2021.04.26-04.47.47:359][  0]LogTexture: Display: Building textures: T_Statue_Hooded_N (BC5, 2048X2048)
+[2021.04.26-04.47.47:359][  0]LogStaticMesh: Built static mesh [0.16s] /Game/ProjectAltar/Meshes/SM_HumanHand.SM_HumanHand
+[2021.04.26-04.47.47:496][  0]LogStaticMesh: Building static mesh SM_OrnateChest_01b...
+[2021.04.26-04.47.47:620][  0]LogTexture: Display: Building textures: T_Gargoyle_Stand_C (AutoDXT, 2048X2048)
+[2021.04.26-04.47.47:620][  0]LogTexture: Display: Building textures: T_Gargoyle_Stand_N (BC5, 2048X2048)
+[2021.04.26-04.47.47:620][  0]LogStaticMesh: Built static mesh [0.12s] /Game/AncientTreasures/Meshes/SM_OrnateChest_01b.SM_OrnateChest_01b
+[2021.04.26-04.47.47:701][  0]LogStaticMesh: Building static mesh SM_Pearls_01b...
+[2021.04.26-04.47.47:793][  0]LogStaticMesh: Built static mesh [0.09s] /Game/AncientTreasures/Meshes/SM_Pearls_01b.SM_Pearls_01b
+[2021.04.26-04.47.47:863][  0]LogStaticMesh: Building static mesh SM_Pillar...
+[2021.04.26-04.47.47:908][  0]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Pillar.SM_Pillar
+[2021.04.26-04.47.47:984][  0]LogStaticMesh: Building static mesh SM_Shield_01a...
+[2021.04.26-04.47.48:135][  0]LogStaticMesh: Built static mesh [0.15s] /Game/AncientTreasures/Meshes/SM_Shield_01a.SM_Shield_01a
+[2021.04.26-04.47.48:912][  0]LogTexture: Display: Building textures: T_Gargoyle_Stand_A (AutoDXT, 2048X2048)
+[2021.04.26-04.47.48:912][  0]LogTexture: Display: Building textures: T_Gargoyle_N (BC5, 2048X2048)
+[2021.04.26-04.47.48:912][  0]LogTexture: Display: Building textures: T_Gargoyle_C (AutoDXT, 2048X2048)
+[2021.04.26-04.47.48:913][  0]LogStaticMesh: Building static mesh SM_Skeleton_01...
+[2021.04.26-04.47.49:572][  0]LogStaticMesh: Built static mesh [0.66s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2021.04.26-04.47.50:525][  0]LogTexture: Display: Building textures: T_Gargoyle_A (AutoDXT, 2048X2048)
+[2021.04.26-04.47.50:525][  0]LogTexture: Display: Building textures: T_Coffin_Normal (BC5, 2048X2048)
+[2021.04.26-04.47.50:526][  0]LogStaticMesh: Building static mesh SM_Skeleton_02...
+[2021.04.26-04.47.51:187][  0]LogStaticMesh: Built static mesh [0.66s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02.SM_Skeleton_02
+[2021.04.26-04.47.52:108][  0]LogTexture: Display: Building textures: T_Coffin_Compact (AutoDXT, 2048X2048)
+[2021.04.26-04.47.52:108][  0]LogTexture: Display: Building textures: T_Coffin_Albedo (AutoDXT, 2048X2048)
+[2021.04.26-04.47.52:108][  0]LogStaticMesh: Building static mesh SM_Skeleton_03...
+[2021.04.26-04.47.52:820][  0]LogTexture: Display: Building textures: T_Chandelier_N (BC5, 4096X4096)
+[2021.04.26-04.47.52:820][  0]LogStaticMesh: Built static mesh [0.71s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2021.04.26-04.47.53:548][  0]LogStaticMesh: Building static mesh SM_Skeleton_04...
+[2021.04.26-04.47.58:211][  0]LogTexture: Display: Building textures: UI_Template_No_Minimap (AutoDXT, 1920X1080)
+[2021.04.26-04.47.58:211][  0]LogTexture: Display: Building textures: T_Chandelier_A (AutoDXT, 4096X4096)
+[2021.04.26-04.47.58:211][  0]LogTexture: Display: Building textures: Archer_Bow_N (BC5, 1024X1024)
+[2021.04.26-04.47.58:211][  0]LogTexture: Display: Building textures: T_Chandelier_C (AutoDXT, 4096X4096)
+[2021.04.26-04.47.58:211][  0]LogTexture: Display: Building textures: Archer_Bow_M (AutoDXT, 1024X1024)
+[2021.04.26-04.47.58:211][  0]LogTexture: Display: Building textures: Archer_Bow_D (AutoDXT, 1024X1024)
+[2021.04.26-04.47.58:211][  0]LogTexture: Display: Building textures: T_Pillar_N (BC5, 4096X4096)
+[2021.04.26-04.47.58:211][  0]LogTexture: Display: Building textures: T_Pillar_C (AutoDXT, 4096X4096)
+[2021.04.26-04.47.58:211][  0]LogStaticMesh: Built static mesh [4.66s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2021.04.26-04.47.58:963][  0]LogStaticMesh: Building static mesh SM_Skeleton_06...
+[2021.04.26-04.48.03:565][  0]LogTexture: Display: Building textures: Stall01_N (BC5, 1024X1024)
+[2021.04.26-04.48.03:565][  0]LogTexture: Display: Building textures: Stall01_M (AutoDXT, 1024X1024)
+[2021.04.26-04.48.03:565][  0]LogTexture: Display: Building textures: Stall01_D (AutoDXT, 1024X1024)
+[2021.04.26-04.48.03:565][  0]LogTexture: Display: Building textures: T_Pillar_A (AutoDXT, 4096X4096)
+[2021.04.26-04.48.03:565][  0]LogTexture: Display: Building textures: T_Edge_Stones_And_Straight_Column_Texturing_Compact (AutoDXT, 4096X4096)
+[2021.04.26-04.48.03:565][  0]LogTexture: Display: Building textures: T_Edge_Stones_And_Straight_Column_Texturing_Normal (BC5, 4096X4096)
+[2021.04.26-04.48.03:565][  0]LogStaticMesh: Built static mesh [4.60s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_06.SM_Skeleton_06
+[2021.04.26-04.48.04:176][  0]LogStaticMesh: Building static mesh SM_Skeleton_07...
+[2021.04.26-04.48.07:636][  0]LogTexture: Display: Building textures: T_Edge_Stones_And_Straight_Column_Texturing_Albedo (AutoDXT, 4096X4096)
+[2021.04.26-04.48.07:636][  0]LogStaticMesh: Built static mesh [3.46s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07
+[2021.04.26-04.48.07:714][  0]LogStaticMesh: Building static mesh SM_Statue_01a...
+[2021.04.26-04.48.07:748][  0]LogStaticMesh: Built static mesh [0.03s] /Game/AncientTreasures/Meshes/SM_Statue_01a.SM_Statue_01a
+[2021.04.26-04.48.08:291][  0]LogStaticMesh: Building static mesh SM_Statue_Hooded...
+[2021.04.26-04.48.08:942][  0]LogStaticMesh: Built static mesh [0.65s] /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2021.04.26-04.48.09:025][  0]LogStaticMesh: Building static mesh SM_Sword_01a...
+[2021.04.26-04.48.09:045][  0]LogStaticMesh: Built static mesh [0.02s] /Game/AncientTreasures/Meshes/SM_Sword_01a.SM_Sword_01a
+[2021.04.26-04.48.09:214][  0]LogStaticMesh: Building static mesh SM_Table...
+[2021.04.26-04.48.09:454][  0]LogStaticMesh: Built static mesh [0.24s] /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2021.04.26-04.48.09:583][  0]LogStaticMesh: Building static mesh SM_Torche...
+[2021.04.26-04.48.09:638][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Throne_Skull/Meshes/SM_Torche.SM_Torche
+[2021.04.26-04.48.09:665][  0]LogStaticMesh: Building static mesh SM_Torture_Chair...
+[2021.04.26-04.48.09:710][  0]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2021.04.26-04.48.09:788][  0]LogStaticMesh: Building static mesh SM_Urn_01a...
+[2021.04.26-04.48.09:894][  0]LogStaticMesh: Built static mesh [0.11s] /Game/AncientTreasures/Meshes/SM_Urn_01a.SM_Urn_01a
+[2021.04.26-04.48.09:942][  0]LogStaticMesh: Building static mesh SM_Urn_02...
+[2021.04.26-04.48.09:993][  0]LogStaticMesh: Built static mesh [0.05s] /Game/AncientTreasures/Meshes/SM_Urn_02.SM_Urn_02
+[2021.04.26-04.48.10:130][  0]LogStaticMesh: Building static mesh SM_Pennant...
+[2021.04.26-04.48.10:201][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Throne_Skull/Meshes/SM_Pennant.SM_Pennant
+[2021.04.26-04.48.10:245][  0]LogStaticMesh: Building static mesh SM_Stairs...
+[2021.04.26-04.48.10:272][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Throne_Skull/Meshes/SM_Stairs.SM_Stairs
+[2021.04.26-04.48.10:390][  0]LogStaticMesh: Building static mesh SM_Throne...
+[2021.04.26-04.48.10:449][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Throne_Skull/Meshes/SM_Throne.SM_Throne
+[2021.04.26-04.48.10:475][  0]LogMaterial: Display: Missing cached shader map for material MM_Master_Material_01a, compiling. 
+[2021.04.26-04.48.10:764][  0]LogMaterial: Display: Missing cached shader map for material MM_Master_Material_01a, compiling. 
+[2021.04.26-04.48.10:961][  0]LogMaterial: Display: Missing cached shader map for material MM_Master_Material_01a, compiling. 
+[2021.04.26-04.48.11:110][  0]LogSkeletalMesh: Building Skeletal Mesh Hooker_Boss_Mesh...
+[2021.04.26-04.48.11:167][  0]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/JC_TEMP/CityofBrass_Enemies/Meshes/Enemy/Hooker/Hooker_Boss_Mesh.Hooker_Boss_Mesh
+[2021.04.26-04.48.11:174][  0]LogMaterial: Display: Missing cached shader map for material MM_Master_Material_01a, compiling. 
+[2021.04.26-04.48.11:329][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Button_Click_New_...
+[2021.04.26-04.48.11:357][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/UI_Sounds/Button_Click_New_.Button_Click_New_ will be modified from 40 to 40.
+[2021.04.26-04.48.11:663][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 14728 while cooking SoundWave /Game/Audio/UI_Sounds/Button_Click_New_.Button_Click_New_.
+[2021.04.26-04.48.11:664][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave GameOver...
+[2021.04.26-04.48.11:665][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/UI_Sounds/GameOver.GameOver will be modified from 40 to 40.
+[2021.04.26-04.48.11:759][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 687476 while cooking SoundWave /Game/Audio/UI_Sounds/GameOver.GameOver.
+[2021.04.26-04.48.11:829][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/JC_TEMP/CityofBrass_Enemies/Meshes/Enemy/Corpse/animation/Corpse_passive_idle.Corpse_passive_idle
+[2021.04.26-04.48.11:829][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/JC_TEMP/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_ChargeAttack.Charger_Alert_ChargeAttack
+[2021.04.26-04.48.11:829][  0]LogMaterial: Display: Missing cached shader map for material Mat_HumanHand, compiling. 
+[2021.04.26-04.48.11:848][  0]LogMaterial: Display: Missing cached shader map for material M_Skeleton_Dirty, compiling. 
+[2021.04.26-04.48.11:877][  0]LogMaterial: Display: Missing cached shader map for material M_Statue, compiling. 
+[2021.04.26-04.48.12:140][  0]LogTexture: Display: Building textures: T_Chains_Texturing_C (AutoDXT, 2048X2048)
+[2021.04.26-04.48.20:804][  0]LogTexture: Display: Building textures: TX_Urn_02_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.20:804][  0]LogTexture: Display: Building textures: TX_Urn_02_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.20:804][  0]LogTexture: Display: Building textures: TX_Urn_02_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.20:804][  0]LogTexture: Display: Building textures: TX_Urn_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.20:804][  0]LogTexture: Display: Building textures: TX_Urn_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.20:804][  0]LogTexture: Display: Building textures: TX_Urn_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.21:044][  0]LogTexture: Display: Building textures: T_Chains_Texturing_N (BC5, 2048X2048)
+[2021.04.26-04.48.21:966][  0]LogTexture: Display: Building textures: T_Chains_Texturing_A (AutoDXT, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Sword_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Sword_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Sword_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Statue_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Statue_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Statue_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Shield_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Shield_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Shield_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Pearls_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.28:688][  0]LogTexture: Display: Building textures: TX_Pearls_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.28:691][  0]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2021.04.26-04.48.28:867][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Magical_Portal...
+[2021.04.26-04.48.28:917][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Environmental_Sounds/Magical_Portal.Magical_Portal will be modified from 40 to 40.
+[2021.04.26-04.48.29:052][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1139872 while cooking SoundWave /Game/Audio/Environmental_Sounds/Magical_Portal.Magical_Portal.
+[2021.04.26-04.48.29:052][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Magic_Environment...
+[2021.04.26-04.48.29:104][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Environmental_Sounds/Magic_Environment.Magic_Environment will be modified from 40 to 40.
+[2021.04.26-04.48.29:434][  0]LogTexture: Display: Building textures: TX_Pearls_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.29:434][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2901940 while cooking SoundWave /Game/Audio/Environmental_Sounds/Magic_Environment.Magic_Environment.
+[2021.04.26-04.48.29:436][  0]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2021.04.26-04.48.29:484][  0]LogMaterial: Display: Missing cached shader map for material Enviro_Substance_Material, compiling. 
+[2021.04.26-04.48.29:533][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Ingame_Combat...
+[2021.04.26-04.48.29:748][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Music/Ingame_Combat.Ingame_Combat will be modified from 40 to 40.
+[2021.04.26-04.48.33:652][  0]LogTexture: Display: Building textures: TX_OrnateChest_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.33:652][  0]LogTexture: Display: Building textures: TX_OrnateChest_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.33:653][  0]LogTexture: Display: Building textures: TX_OrnateChest_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.33:653][  0]LogTexture: Display: Building textures: TX_Helmet_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.33:653][  0]LogTexture: Display: Building textures: TX_GoldBar_02a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.33:653][  0]LogTexture: Display: Building textures: TX_GoldBar_02a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.33:653][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 30498144 while cooking SoundWave /Game/Audio/Music/Ingame_Combat.Ingame_Combat.
+[2021.04.26-04.48.33:659][  0]LogSkeletalMesh: Building Skeletal Mesh Archer_Bow_Weapon...
+[2021.04.26-04.48.33:661][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/JC_TEMP/CityofBrass_Enemies/Meshes/Enemy/Archer/Archer_Bow_Weapon.Archer_Bow_Weapon
+[2021.04.26-04.48.33:661][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Boss_Chant...
+[2021.04.26-04.48.33:738][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Environmental_Sounds/Boss_Chant.Boss_Chant will be modified from 40 to 40.
+[2021.04.26-04.48.34:734][  0]LogTexture: Display: Building textures: TX_Helmet_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.34:734][  0]LogTexture: Display: Building textures: TX_Helmet_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.34:734][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 8702712 while cooking SoundWave /Game/Audio/Environmental_Sounds/Boss_Chant.Boss_Chant.
+[2021.04.26-04.48.34:742][  0]LogMaterial: Display: Missing cached shader map for material MM_Master_Material_01a, compiling. 
+[2021.04.26-04.48.40:379][  0]LogTexture: Display: Building textures: TX_GoldBar_02a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.40:379][  0]LogTexture: Display: Building textures: TX_Dagger_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.48.40:379][  0]LogTexture: Display: Building textures: TX_Dagger_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.48.40:379][  0]LogTexture: Display: Building textures: TX_Dagger_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.48.40:379][  0]LogMaterial: Display: Missing cached shader map for material MM_Master_Material_01a, compiling. 
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Crown_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Crown_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Crown_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Coin_02a_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Coin_02a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Coin_02a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Coins_01b_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Coins_01b_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_ClayPot_03a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_Coins_01b_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_ClayPot_03a_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_ClayPot_03a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_ClayPot_02a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_ClayPot_02a_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:827][  0]LogTexture: Display: Building textures: TX_ClayPot_02a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Chest_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_ClayPot_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Chest_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_ClayPot_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_ClayPot_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Bangle_01a_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Bangle_01a_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Chest_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Bangle_01a_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Bangle_01b_RMA (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Bangle_01b_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: TX_Bangle_01b_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Desert_SRAH (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Desert_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Desert_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cliff_03_SRAH (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cliff_01_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cliff_01_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cavern_SRAH (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cavern_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cavern_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cliff_03_NRM (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cliff_03_ALB (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: Rock_RSText_Cliff_01_SRAH (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: T_Torture_Chair_Normal (BC5, 4096X4096)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: T_Stone_Altar_N (BC5, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: T_Table_A (AutoDXT, 4096X4096)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: T_Stone_Altar_C (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogTexture: Display: Building textures: T_Stone_Altar_A (AutoDXT, 2048X2048)
+[2021.04.26-04.49.20:828][  0]LogMaterial: Display: Missing cached shader map for material Rocks_RST_BUMPOFFSET_MASTER_MAT, compiling. 
+[2021.04.26-04.49.23:802][  0]LogTexture: Display: Building textures: T_Torture_Chair_C (AutoDXT, 4096X4096)
+[2021.04.26-04.49.23:802][  0]LogTexture: Display: Building textures: T_Torture_Chair_A (AutoDXT, 4096X4096)
+[2021.04.26-04.49.23:802][  0]LogMaterial: Display: Missing cached shader map for material Rocks_RST_BASIC_MASTER_MAT, compiling. 
+[2021.04.26-04.49.23:859][  0]LogMaterial: Display: Missing cached shader map for material Emissive_Base, compiling. 
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Table_N (BC5, 4096X4096)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Table_C (AutoDXT, 4096X4096)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Gibbet_Cage_Mount_Texturing_N (BC5, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Gibbet_Cage_Mount_Texturing_C (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Gibbet_Cage_Mount_Texturing_A (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: Ritual_Png_Image (AutoDXT, 4000X4000)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Torche_Roughness (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Torche_Normal (BC5, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Torche_Metallic (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Torche_BaseColor (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Throne_Roughness (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Throne_Normal (BC5, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Throne_Metallic (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Throne_BaseColor (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Throne_Rope_Roughness (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Throne_Rope_Normal (BC5, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Throne_Rope_Metallic (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Throne_Rope_BaseColor (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:096][  0]LogTexture: Display: Building textures: T_Stairs_Roughness (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Stairs_Metallic (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Stairs_Normal (BC5, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Stairs_BaseColor (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Pennant_Sheet_Roughness (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Pennant_Roughness (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Pennant_Normal (BC5, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Pennant_BaseColor (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Pennant__Metallic (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Pennant_Sheet_Normal (BC5, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Pennant_Sheet_Metallic (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Pennant_Sheet_BaseColor (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Torch_1_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Torch_1_N (BC5, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Torch_1_B (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_HumanRib_1_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_HumanRib_1_N (BC5, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_HumanRib_1_B (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_HumanHead_1_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_HumanHead_1_N (BC5, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_Floor_8_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogTexture: Display: Building textures: T_HumanHead_1_B (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:097][  0]LogMaterial: Display: Missing cached shader map for material M_Glow1, compiling. 
+[2021.04.26-04.49.57:131][  0]LogMaterial: Display: Missing cached shader map for material M_Glow1, compiling. 
+[2021.04.26-04.49.57:412][  0]LogTexture: Display: Building textures: T_Floor_8_N (BC5, 2048X2048)
+[2021.04.26-04.49.57:412][  0]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.04.26-04.49.57:542][  0]LogMaterial: Display: Missing cached shader map for material mat_Steel, compiling. 
+[2021.04.26-04.49.57:558][  0]LogMaterial: Display: Missing cached shader map for material mat_RoughRocky, compiling. 
+[2021.04.26-04.49.57:585][  0]LogMaterial: Display: Missing cached shader map for material mat_Tiles, compiling. 
+[2021.04.26-04.49.57:603][  0]LogMaterial: Display: Missing cached shader map for material mat_Marble, compiling. 
+[2021.04.26-04.49.57:630][  0]LogMaterial: Display: Missing cached shader map for material mat_Inst_Red, compiling. 
+[2021.04.26-04.49.57:646][  0]LogMaterial: Display: Missing cached shader map for material mat_Inst_Green3, compiling. 
+[2021.04.26-04.49.57:921][  0]LogTexture: Display: Building textures: T_Floor_8_B (AutoDXT, 2048X2048)
+[2021.04.26-04.49.57:921][  0]LogMaterial: Display: Missing cached shader map for material Ritual_Png_Image_Mat, compiling. 
+[2021.04.26-04.49.57:939][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Cutscene1Dialogue4...
+[2021.04.26-04.49.57:976][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue4.Cutscene1Dialogue4 will be modified from 40 to 40.
+[2021.04.26-04.49.58:221][  0]LogTexture: Display: Building textures: T_Floor_6_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.49.58:221][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2404350 while cooking SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue4.Cutscene1Dialogue4.
+[2021.04.26-04.49.58:222][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Cutscene1Dialogue3...
+[2021.04.26-04.49.58:247][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue3.Cutscene1Dialogue3 will be modified from 40 to 40.
+[2021.04.26-04.49.58:496][  0]LogTexture: Display: Building textures: T_Floor_6_N (BC5, 2048X2048)
+[2021.04.26-04.49.58:496][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2443262 while cooking SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue3.Cutscene1Dialogue3.
+[2021.04.26-04.49.58:496][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Cutscene1Dialogue2...
+[2021.04.26-04.49.58:526][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue2.Cutscene1Dialogue2 will be modified from 40 to 40.
+[2021.04.26-04.49.58:818][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2856960 while cooking SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue2.Cutscene1Dialogue2.
+[2021.04.26-04.49.58:819][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Cutscene1Dialogue1...
+[2021.04.26-04.49.58:844][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue1.Cutscene1Dialogue1 will be modified from 40 to 40.
+[2021.04.26-04.49.59:072][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2258282 while cooking SoundWave /Game/Cutscenes/Audio/Cutscene1Dialogue1.Cutscene1Dialogue1.
+[2021.04.26-04.49.59:151][  0]LogMaterial: Display: Missing cached shader map for material M_Torche, compiling. 
+[2021.04.26-04.49.59:167][  0]LogMaterial: Display: Missing cached shader map for material M_Throne, compiling. 
+[2021.04.26-04.49.59:186][  0]LogMaterial: Display: Missing cached shader map for material M_Rope, compiling. 
+[2021.04.26-04.49.59:202][  0]LogMaterial: Display: Missing cached shader map for material M_Stairs, compiling. 
+[2021.04.26-04.49.59:220][  0]LogMaterial: Display: Missing cached shader map for material M_Pennant, compiling. 
+[2021.04.26-04.49.59:237][  0]LogMaterial: Display: Missing cached shader map for material M_Sheet, compiling. 
+[2021.04.26-04.49.59:255][  0]LogMaterial: Display: Missing cached shader map for material Mat_Torch_1, compiling. 
+[2021.04.26-04.49.59:273][  0]LogMaterial: Display: Missing cached shader map for material Mat_HumanRib, compiling. 
+[2021.04.26-04.50.01:400][  0]LogTexture: Display: Building textures: T_Floor_6_B (AutoDXT, 2048X2048)
+[2021.04.26-04.50.01:400][  0]LogTexture: Display: Building textures: T_Floor_5_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.50.01:400][  0]LogMaterial: Display: Missing cached shader map for material Mat_HumanHead, compiling. 
+[2021.04.26-04.50.05:933][  0]LogTexture: Display: Building textures: T_Floor_5_N (BC5, 2048X2048)
+[2021.04.26-04.50.05:933][  0]LogTexture: Display: Building textures: T_Floor_5_B (AutoDXT, 2048X2048)
+[2021.04.26-04.50.05:933][  0]LogTexture: Display: Building textures: T_Floor_2_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.50.05:933][  0]LogTexture: Display: Building textures: T_Floor_2_N (BC5, 2048X2048)
+[2021.04.26-04.50.05:933][  0]LogTexture: Display: Building textures: T_Floor_2_B (AutoDXT, 2048X2048)
+[2021.04.26-04.50.05:933][  0]LogTexture: Display: Building textures: T_Floor_1_RMO (AutoDXT, 2048X2048)
+[2021.04.26-04.50.05:933][  0]LogMaterial: Display: Missing cached shader map for material Mat_Floor_8, compiling. 
+[2021.04.26-04.50.05:951][  0]LogMaterial: Display: Missing cached shader map for material Mat_Floor_6, compiling. 
+[2021.04.26-04.50.10:033][  0]LogTexture: Display: Building textures: T_Floor_1_N (BC5, 2048X2048)
+[2021.04.26-04.50.10:033][  0]LogTexture: Display: Building textures: T_Floor_1_B (AutoDXT, 2048X2048)
+[2021.04.26-04.50.10:034][  0]LogTexture: Display: Building textures: T_Torch_N (BC5, 2048X2048)
+[2021.04.26-04.50.10:034][  0]LogTexture: Display: Building textures: T_Torch_C (AutoDXT, 2048X2048)
+[2021.04.26-04.50.10:034][  0]LogTexture: Display: Building textures: T_Torch_A (AutoDXT, 2048X2048)
+[2021.04.26-04.50.10:034][  0]LogTexture: Display: Building textures: T_Half_Arch_C (AutoDXT, 4096X4096)
+[2021.04.26-04.50.10:034][  0]LogMaterial: Display: Missing cached shader map for material Mat_Floor_5, compiling. 
+[2021.04.26-04.50.10:051][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.04.26-04.50.10:051][  0]LogMaterial: Display: Missing cached shader map for material Mat_Floor_2, compiling. 
+[2021.04.26-04.50.10:069][  0]LogMaterial: Display: Missing cached shader map for material Mat_Floor_1, compiling. 
+[2021.04.26-04.50.20:483][  0]LogTexture: Display: Building textures: T_Half_Arch_N (BC5, 4096X4096)
+[2021.04.26-04.50.20:483][  0]LogTexture: Display: Building textures: T_Half_Arch_A (AutoDXT, 4096X4096)
+[2021.04.26-04.50.20:483][  0]LogMaterial: Display: Missing cached shader map for material M_Torch_Flicker_Light_Function, compiling. 
+[2021.04.26-04.50.20:513][  0]LogMaterial: Display: Missing cached shader map for material M_Candles_Master, compiling. 
+[2021.04.26-04.50.20:514][  0]LogMaterial: Warning: D:\JcTemp\Projects\Unreal\CIU330-Major-Project\DeathStrikes\Content\MedievalDungeon\Materials\M_Candles_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.26-04.50.20:514][  0]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.26-04.50.20:515][  0]LogMaterial: Display: Missing cached shader map for material M_Candles_Master, compiling. 
+[2021.04.26-04.50.20:516][  0]LogMaterial: Warning: D:\JcTemp\Projects\Unreal\CIU330-Major-Project\DeathStrikes\Content\MedievalDungeon\Materials\M_Candles_Inst.uasset: Failed to compile Material Instance with Base M_Candles_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2021.04.26-04.50.20:516][  0]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.04.26-04.50.20:655][  0]LogAIModule: Creating AISystem for world DreadlordArea
+[2021.04.26-04.50.20:655][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001772F9F3E00), frame # 0
+[2021.04.26-04.50.20:655][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001770FF54900), frame # 0
+[2021.04.26-04.50.21:807][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.26-04.50.21:959][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.04.26-04.50.21:968][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.26-04.50.21:990][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 21.736ms to complete.
+[2021.04.26-04.50.21:990][  0]LogFileHelpers: Loading map 'DreadlordArea' took 181.675
+[2021.04.26-04.50.23:073][  0]LogUnrealEdMisc: Total Editor Startup Time, took 244.494
+[2021.04.26-04.50.24:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-04.50.24:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-04.50.24:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-04.50.24:066][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-04.50.24:406][  0]LogCollectionManager: Loaded 0 collections in 0.001123 seconds
+[2021.04.26-04.50.24:532][  0]LogFileCache: Scanning file cache for directory 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Collections/' took 0.00s
+[2021.04.26-04.50.24:532][  0]LogFileCache: Scanning file cache for directory 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/Developers/jfcraig/Collections/' took 0.00s
+[2021.04.26-04.50.24:532][  0]LogFileCache: Scanning file cache for directory 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/Collections/' took 0.00s
+[2021.04.26-04.50.24:532][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 3427 classes and 821 folders.
+[2021.04.26-04.50.24:628][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.26-04.50.25:977][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.26-04.50.26:428][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.04.26-04.50.27:059][  0]LogSlate: Took 0.020767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.26-04.50.27:078][  0]LogSlate: Took 0.006059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.26-04.50.27:097][  0]LogSlate: Took 0.003707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.26-04.50.27:413][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2021.04.26-04.50.28:948][  0]LogSlate: Window 'Tutorials' being destroyed
+[2021.04.26-04.50.29:006][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.26-04.50.29:006][  0]LogLoad: (Engine Initialization) Total time: 250.43 seconds
+[2021.04.26-04.50.29:006][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.26-04.50.29:617][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/JC_TEMP/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_run.Charger_Alert_run
+[2021.04.26-04.50.29:618][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/JC_TEMP/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Ilde.Charger_Alert_Ilde
+[2021.04.26-04.50.29:618][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.26-04.50.29:883][  0]LogSlate: Took 0.013830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.26-04.50.29:941][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/' took 0.41s
+[2021.04.26-04.50.29:942][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/JC_TEMP/CityofBrass_Enemies/Meshes/Enemy/Charger/Animation/Charger_Alert_Sprint.Charger_Alert_Sprint
+[2021.04.26-04.50.29:976][  1]LogAssetRegistry: Asset discovery search completed in 229.9009 seconds
+[2021.04.26-04.50.29:982][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2021.04.26-04.50.32:487][ 89]LogSlate: Window 'Message Log' being destroyed
+[2021.04.26-04.50.32:494][ 89]LogSlate: Window 'Message Log' being destroyed
+[2021.04.26-04.50.32:559][ 93]LogSlate: Took 0.010413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.26-04.51.24:965][409]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:3265).
+[2021.04.26-04.51.25:020][410]LogRenderer: Reallocating scene render targets to support 1616x824 Format 10 NumSamples 1 (Frame:3267).
+[2021.04.26-04.51.25:075][411]LogRenderer: Reallocating scene render targets to support 1616x876 Format 10 NumSamples 1 (Frame:3269).
+[2021.04.26-04.51.25:121][412]LogRenderer: Reallocating scene render targets to support 1616x900 Format 10 NumSamples 1 (Frame:3271).
+[2021.04.26-04.51.25:164][413]LogRenderer: Reallocating scene render targets to support 1616x908 Format 10 NumSamples 1 (Frame:3273).
+[2021.04.26-04.51.25:211][414]LogRenderer: Reallocating scene render targets to support 1616x916 Format 10 NumSamples 1 (Frame:3275).
+[2021.04.26-04.51.25:260][415]LogRenderer: Reallocating scene render targets to support 1616x940 Format 10 NumSamples 1 (Frame:3277).
+[2021.04.26-04.51.25:304][416]LogRenderer: Reallocating scene render targets to support 1616x972 Format 10 NumSamples 1 (Frame:3279).
+[2021.04.26-04.51.25:347][417]LogRenderer: Reallocating scene render targets to support 1616x996 Format 10 NumSamples 1 (Frame:3281).
+[2021.04.26-04.51.25:386][418]LogRenderer: Reallocating scene render targets to support 1616x1020 Format 10 NumSamples 1 (Frame:3283).
+[2021.04.26-04.51.29:877][796]LogEditorViewport: Clicking on Actor (LMB): Boss_NPC_C (Boss_NPC)
+[2021.04.26-04.51.30:642][796]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder7)
+[2021.04.26-04.51.35:428][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.04.26-04.51.37:502][256]LogEditorViewport: Clicking on Actor (LMB): Boss_NPC_C (Boss_NPC)
+[2021.04.26-04.59.18:514][481]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JC_TEMP/Cylinder.Cylinder
+[2021.04.26-04.59.18:772][481]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.04.26-04.59.19:994][481]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.26-04.59.20:069][482]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
