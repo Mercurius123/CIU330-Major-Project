@@ -20607,3 +20607,15 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.04.29-09.29.23:520][641]LogSavePackage: Moving 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/Anim_Montage_Dreadlord16A5724B495C44177809ECB9C9B33041.tmp' to 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/JC_TEMP/Animation/Dreadlord/Anim_Montage_Dreadlord.uasset'
 [2021.04.29-09.29.23:541][641]AssetCheck: New page: Asset Save: Anim_Montage_Dreadlord
 [2021.04.29-09.29.23:541][641]LogContentValidation: Display: Validating AnimMontage /Game/JC_TEMP/Animation/Dreadlord/Anim_Montage_Dreadlord.Anim_Montage_Dreadlord
+[2021.04.29-09.30.26:817][234]LogEditorViewport: Clicking on Actor (LMB): DreadlordSkeletonTest_C (DreadlordSkeletonTest)
+[2021.04.29-09.30.32:170][561]Cmd: DELETE
+[2021.04.29-09.30.32:170][561]Cmd: ACTOR DELETE
+[2021.04.29-09.30.32:240][561]LogEditorActor: Deleted Actor: DreadlordSkeletonTest_C
+[2021.04.29-09.30.32:293][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.04.29-09.30.32:296][561]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2021.04.29-09.30.36:546][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.04.29-09.30.37:970][912]LogSavePackage: Moving 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Saved/DreadlordAreaE63FA70B4B2BFC820D499E9BBDD02572.tmp' to 'D:/JcTemp/Projects/Unreal/CIU330-Major-Project/DeathStrikes/Content/ThirdPersonBP/Maps/DreadlordArea.umap'
+[2021.04.29-09.30.38:022][912]LogFileHelpers: Saving map 'DreadlordArea' took 1.526
+[2021.04.29-09.30.38:081][912]AssetCheck: New page: Asset Save: DreadlordArea
+[2021.04.29-09.30.38:081][912]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DreadlordArea.DreadlordArea
+[2021.04.29-09.30.43:571][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
